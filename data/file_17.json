@@ -1,0 +1,1096 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling.png",
+            "Image Name": "Smiling_00001_.png",
+            "Caption": "a man with a backpack and a smile",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-2.png",
+            "Image Name": "Smiling_00002_.png",
+            "Caption": "a woman with an afro hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-3.png",
+            "Image Name": "Smiling_00003_.png",
+            "Caption": "a smiling man in an orange sweater",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-4.png",
+            "Image Name": "Smiling_00004_.png",
+            "Caption": "a smiling young woman with a backpack",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-5.png",
+            "Image Name": "Smiling_00005_.png",
+            "Caption": "a smiling black woman wearing an orange scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-6.png",
+            "Image Name": "Smiling_00006_.png",
+            "Caption": "a woman smiling with her teeth showing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-7.png",
+            "Image Name": "Smiling_00007_.png",
+            "Caption": "a smiling woman wearing a turban",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-8.png",
+            "Image Name": "Smiling_00008_.png",
+            "Caption": "a young woman with a smile on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-9.png",
+            "Image Name": "Smiling_00009_.png",
+            "Caption": "a smiling young woman wearing a black headscarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-10.png",
+            "Image Name": "Smiling_00010_.png",
+            "Caption": "a smiling african american woman with curly hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-11.png",
+            "Image Name": "Smiling_00011_.png",
+            "Caption": "a woman with long black hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-12.png",
+            "Image Name": "Smiling_00012_.png",
+            "Caption": "a smiling woman with a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-13.png",
+            "Image Name": "Smiling_00013_.png",
+            "Caption": "a woman with a black beanie on smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-14.png",
+            "Image Name": "Smiling_00014_.png",
+            "Caption": "a smiling black woman with an afro bun",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-15.png",
+            "Image Name": "Smiling_00015_.png",
+            "Caption": "a smiling woman with an afro hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-16.png",
+            "Image Name": "Smiling_00016_.png",
+            "Caption": "a smiling woman with an afro hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-17.png",
+            "Image Name": "Smiling_00017_.png",
+            "Caption": "a smiling older man with white hair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-18.png",
+            "Image Name": "Smiling_00018_.png",
+            "Caption": "a man is smiling and laughing",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-19.png",
+            "Image Name": "Smiling_00019_.png",
+            "Caption": "a woman smiling with her eyes closed",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-20.png",
+            "Image Name": "Smiling_00020_.png",
+            "Caption": "a woman smiling with her eyes closed",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-21.png",
+            "Image Name": "Smiling_00021_.png",
+            "Caption": "a woman smiling while wearing a sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-22.png",
+            "Image Name": "Smiling_00022_.png",
+            "Caption": "a smiling girl with a blue head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-23.png",
+            "Image Name": "Smiling_00023_.png",
+            "Caption": "a woman with a ponytail and a smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-24.png",
+            "Image Name": "Smiling_00024_.png",
+            "Caption": "a smiling woman in a black t - shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-25.png",
+            "Image Name": "Smiling_00025_.png",
+            "Caption": "a smiling young woman wearing a yellow scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-26.png",
+            "Image Name": "Smiling_00026_.png",
+            "Caption": "a woman smiling in a tan shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-27.png",
+            "Image Name": "Smiling_00027_.png",
+            "Caption": "a smiling black woman wearing a turban",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-28.png",
+            "Image Name": "Smiling_00028_.png",
+            "Caption": "a woman with an afro is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-29.png",
+            "Image Name": "Smiling_00029_.png",
+            "Caption": "a woman with an afro is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-30.png",
+            "Image Name": "Smiling_00030_.png",
+            "Caption": "a woman with a smile on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-31.png",
+            "Image Name": "Smiling_00031_.png",
+            "Caption": "a woman with a black top and a smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-32.png",
+            "Image Name": "Smiling_00032_.png",
+            "Caption": "a woman with bright yellow eyes and bright yellow earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-33.png",
+            "Image Name": "Smiling_00033_.png",
+            "Caption": "a woman with an afro hair smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-34.png",
+            "Image Name": "Smiling_00034_.png",
+            "Caption": "a woman wearing a black headscarf smiles",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-35.png",
+            "Image Name": "Smiling_00035_.png",
+            "Caption": "a woman is laughing and smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-36.png",
+            "Image Name": "Smiling_00036_.png",
+            "Caption": "a woman with an afro hair smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-37.png",
+            "Image Name": "Smiling_00037_.png",
+            "Caption": "a woman with an afro smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-38.png",
+            "Image Name": "Smiling_00038_.png",
+            "Caption": "a woman with glasses and a black top smiles",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-39.png",
+            "Image Name": "Smiling_00039_.png",
+            "Caption": "a smiling black woman wearing a black hoodie",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-40.png",
+            "Image Name": "Smiling_00040_.png",
+            "Caption": "a smiling young woman with an afro hair headband",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-41.png",
+            "Image Name": "Smiling_00041_.png",
+            "Caption": "a cartoon black woman with curly hair and a smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-42.png",
+            "Image Name": "Smiling_00042_.png",
+            "Caption": "a woman with an afro smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-43.png",
+            "Image Name": "Smiling_00043_.png",
+            "Caption": "a smiling woman wearing a hijab is standing in front of a blue background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-44.png",
+            "Image Name": "Smiling_00044_.png",
+            "Caption": "a young man with dreadlocks smiles",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-45.png",
+            "Image Name": "Smiling_00045_.png",
+            "Caption": "a woman with a big smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-46.png",
+            "Image Name": "Smiling_00046_.png",
+            "Caption": "a smiling woman wearing a headscarf in an office",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-47.png",
+            "Image Name": "Smiling_00047_.png",
+            "Caption": "a woman with a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-48.png",
+            "Image Name": "Smiling_00048_.png",
+            "Caption": "a woman is smiling and laughing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-49.png",
+            "Image Name": "Smiling_00049_.png",
+            "Caption": "a woman with afro hair smiling in front of a group of people",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-50.png",
+            "Image Name": "Smiling_00050_.png",
+            "Caption": "a woman in a headscarf smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-51.png",
+            "Image Name": "Smiling_00051_.png",
+            "Caption": "a woman with a smile on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-52.png",
+            "Image Name": "Smiling_00052_.png",
+            "Caption": "a woman with an afro hair is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-53.png",
+            "Image Name": "Smiling_00053_.png",
+            "Caption": "a woman smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-54.png",
+            "Image Name": "Smiling_00054_.png",
+            "Caption": "a woman with curly hair and a yellow scarf is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-55.png",
+            "Image Name": "Smiling_00055_.png",
+            "Caption": "a smiling young woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-56.png",
+            "Image Name": "Smiling_00056_.png",
+            "Caption": "a smiling young woman wearing a black headscarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-57.png",
+            "Image Name": "Smiling_00057_.png",
+            "Caption": "a young girl wearing a hat and scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-58.png",
+            "Image Name": "Smiling_00058_.png",
+            "Caption": "a woman with an afro smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-59.png",
+            "Image Name": "Smiling_00059_.png",
+            "Caption": "a smiling young woman with curly hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-60.png",
+            "Image Name": "Smiling_00060_.png",
+            "Caption": "a woman with an afro smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-61.png",
+            "Image Name": "Smiling_00061_.png",
+            "Caption": "a woman with curly hair smiles at the camera",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-62.png",
+            "Image Name": "Smiling_00062_.png",
+            "Caption": "a smiling black woman wearing a headscarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-63.png",
+            "Image Name": "Smiling_00063_.png",
+            "Caption": "a woman with an afro smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-64.png",
+            "Image Name": "Smiling_00064_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-65.png",
+            "Image Name": "Smiling_00065_.png",
+            "Caption": "a smiling young woman wearing a warm hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-66.png",
+            "Image Name": "Smiling_00066_.png",
+            "Caption": "a cartoon woman with curly hair and big earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-67.png",
+            "Image Name": "Smiling_00067_.png",
+            "Caption": "a smiling woman with dreadlocks",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-68.png",
+            "Image Name": "Smiling_00068_.png",
+            "Caption": "a man with glasses and a blue sweater smiling",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-69.png",
+            "Image Name": "Smiling_00069_.png",
+            "Caption": "a smiling young woman wearing a black scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-70.png",
+            "Image Name": "Smiling_00070_.png",
+            "Caption": "a woman with an afro is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-71.png",
+            "Image Name": "Smiling_00071_.png",
+            "Caption": "a woman smiling with her teeth showing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-72.png",
+            "Image Name": "Smiling_00072_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-73.png",
+            "Image Name": "Smiling_00073_.png",
+            "Caption": "a woman with an afro hair style smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-74.png",
+            "Image Name": "Smiling_00074_.png",
+            "Caption": "a woman with a beanie on smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-75.png",
+            "Image Name": "Smiling_00075_.png",
+            "Caption": "a smiling woman with dreadlocks and a headband",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-76.png",
+            "Image Name": "Smiling_00076_.png",
+            "Caption": "a woman with an afro hair is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-77.png",
+            "Image Name": "Smiling_00077_.png",
+            "Caption": "a woman with a headband smiles while standing in a field",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-78.png",
+            "Image Name": "Smiling_00078_.png",
+            "Caption": "a woman with an afro is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-79.png",
+            "Image Name": "Smiling_00079_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-80.png",
+            "Image Name": "Smiling_00080_.png",
+            "Caption": "a man is smiling and laughing in a sweater",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-81.png",
+            "Image Name": "Smiling_00081_.png",
+            "Caption": "a woman smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-82.png",
+            "Image Name": "Smiling_00082_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-83.png",
+            "Image Name": "Smiling_00083_.png",
+            "Caption": "a woman with dreadlocks smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-84.png",
+            "Image Name": "Smiling_00084_.png",
+            "Caption": "a smiling woman with dreadlocks and a backpack",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-85.png",
+            "Image Name": "Smiling_00085_.png",
+            "Caption": "a woman with afro hair laughing and smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-86.png",
+            "Image Name": "Smiling_00086_.png",
+            "Caption": "a woman is smiling and laughing while wearing an orange sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-87.png",
+            "Image Name": "Smiling_00087_.png",
+            "Caption": "a woman smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-88.png",
+            "Image Name": "Smiling_00088_.png",
+            "Caption": "a woman is laughing and smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-89.png",
+            "Image Name": "Smiling_00089_.png",
+            "Caption": "a woman with a smile on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-90.png",
+            "Image Name": "Smiling_00090_.png",
+            "Caption": "a man with a black hoodie on smiling",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-91.png",
+            "Image Name": "Smiling_00091_.png",
+            "Caption": "a smiling older woman with gray hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-92.png",
+            "Image Name": "Smiling_00092_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-93.png",
+            "Image Name": "Smiling_00093_.png",
+            "Caption": "a woman smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-94.png",
+            "Image Name": "Smiling_00094_.png",
+            "Caption": "a woman smiling with her teeth showing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-95.png",
+            "Image Name": "Smiling_00095_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-96.png",
+            "Image Name": "Smiling_00096_.png",
+            "Caption": "a woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-97.png",
+            "Image Name": "Smiling_00097_.png",
+            "Caption": "a woman with freckles smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-98.png",
+            "Image Name": "Smiling_00098_.png",
+            "Caption": "a woman smiling with her hair up",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-99.png",
+            "Image Name": "Smiling_00099_.png",
+            "Caption": "a woman with an afro smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741992223/Smiling-100.png",
+            "Image Name": "Smiling_00100_.png",
+            "Caption": "a woman with dreadlocks smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 90,
+            "Images Containing Word": 90,
+            "Percentage of Images": 90.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 75,
+            "Images Containing Word": 75,
+            "Percentage of Images": 75.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 28,
+            "Images Containing Word": 28,
+            "Percentage of Images": 28.000000000000004
+        },
+        {
+            "Word": "afro",
+            "Total Occurrences": 22,
+            "Images Containing Word": 22,
+            "Percentage of Images": 22.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 17,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "smile",
+            "Total Occurrences": 16,
+            "Images Containing Word": 16,
+            "Percentage of Images": 16.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 17,
+            "Images Containing Word": 16,
+            "Percentage of Images": 16.0
+        },
+        {
+            "Word": "curly",
+            "Total Occurrences": 13,
+            "Images Containing Word": 13,
+            "Percentage of Images": 13.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "laughing",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "dreadlocks",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "headscarf",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "smiles",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "showing",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "orange",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "backpack",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "eyes",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "headband",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "teeth",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 4,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "cartoon",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hoodie",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "big",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "earrings",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "closed",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "older",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "beanie",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "turban",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "african",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gray",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "field",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "style",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "warm",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "camera",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "people",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "group",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "office",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "american",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "tan",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "long",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hijab",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bun",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "ponytail",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bright",
+            "Total Occurrences": 2,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "-",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "freckles",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "young",
+            "Count": 12
+        },
+        {
+            "Word": "girl",
+            "Count": 2
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 90
+        },
+        {
+            "Word": "man",
+            "Count": 8
+        },
+        {
+            "Word": "girl",
+            "Count": 2
+        }
+    ]
+}

@@ -1,0 +1,1264 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-2.png",
+            "Image Name": "Teacher_00002_.png",
+            "Caption": "a little girl in a school uniform sitting at a desk with a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "little, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-3.png",
+            "Image Name": "Teacher_00003_.png",
+            "Caption": "a cartoon girl sitting at a desk in front of a classroom",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-4.png",
+            "Image Name": "Teacher_00004_.png",
+            "Caption": "a cartoon girl in a school uniform standing in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-5.png",
+            "Image Name": "Teacher_00005_.png",
+            "Caption": "a boy wearing glasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "boy"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-6.png",
+            "Image Name": "Teacher_00006_.png",
+            "Caption": "a young woman in a school uniform standing at a desk",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-7.png",
+            "Image Name": "Teacher_00007_.png",
+            "Caption": "a woman sitting at a desk with a book and pencils",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-8.png",
+            "Image Name": "Teacher_00008_.png",
+            "Caption": "a man with a beard and vest is sitting in front of a chalkboard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-9.png",
+            "Image Name": "Teacher_00009_.png",
+            "Caption": "a man in glasses and vest is holding an open book",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-10.png",
+            "Image Name": "Teacher_00010_.png",
+            "Caption": "a woman in a classroom",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-11.png",
+            "Image Name": "Teacher_00011_.png",
+            "Caption": "a woman is sitting at a desk with books and a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-12.png",
+            "Image Name": "Teacher_00012_.png",
+            "Caption": "a woman in an apron holding a laptop in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-13.png",
+            "Image Name": "Teacher_00013_.png",
+            "Caption": "a woman in a classroom with a book and a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-14.png",
+            "Image Name": "Teacher_00014_.png",
+            "Caption": "a woman in a black dress is writing on a notebook",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-15.png",
+            "Image Name": "Teacher_00015_.png",
+            "Caption": "a woman in a black shirt and black skirt sitting at a desk with books and a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-16.png",
+            "Image Name": "Teacher_00016_.png",
+            "Caption": "a woman in a school uniform standing in front of a whiteboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-17.png",
+            "Image Name": "Teacher_00017_.png",
+            "Caption": "a painting of a woman in a black dress writing on a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-18.png",
+            "Image Name": "Teacher_00018_.png",
+            "Caption": "a man with a beard and a book",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-19.png",
+            "Image Name": "Teacher_00019_.png",
+            "Caption": "a woman sitting at a desk with a book and a calendar",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-20.png",
+            "Image Name": "Teacher_00020_.png",
+            "Caption": "a woman in a pink shirt and grey apron",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-21.png",
+            "Image Name": "Teacher_00021_.png",
+            "Caption": "a woman standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-22.png",
+            "Image Name": "Teacher_00022_.png",
+            "Caption": "a cartoon girl sitting at a desk with a pencil and notebook",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-23.png",
+            "Image Name": "Teacher_00023_.png",
+            "Caption": "a little girl sitting at a desk with a bunch of books",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "little, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-24.png",
+            "Image Name": "Teacher_00024_.png",
+            "Caption": "a woman in a school uniform is smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-25.png",
+            "Image Name": "Teacher_00025_.png",
+            "Caption": "a woman in a classroom",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-26.png",
+            "Image Name": "Teacher_00026_.png",
+            "Caption": "a woman in front of a chalkboard with words written on it",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-27.png",
+            "Image Name": "Teacher_00027_.png",
+            "Caption": "a man with glasses and a beard in a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-28.png",
+            "Image Name": "Teacher_00028_.png",
+            "Caption": "a woman is reading an open book in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-29.png",
+            "Image Name": "Teacher_00029_.png",
+            "Caption": "a woman wearing glasses and a blue shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-30.png",
+            "Image Name": "Teacher_00030_.png",
+            "Caption": "a smiling black woman sitting at a desk with books and a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-31.png",
+            "Image Name": "Teacher_00031_.png",
+            "Caption": "a man sitting at a desk",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-32.png",
+            "Image Name": "Teacher_00032_.png",
+            "Caption": "a woman in glasses standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-33.png",
+            "Image Name": "Teacher_00033_.png",
+            "Caption": "a young woman in a school uniform standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-34.png",
+            "Image Name": "Teacher_00034_.png",
+            "Caption": "a drawing of a man with glasses and a mustache sitting at a desk",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-35.png",
+            "Image Name": "Teacher_00035_.png",
+            "Caption": "a woman sitting at a desk with a book in front of her",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-36.png",
+            "Image Name": "Teacher_00036_.png",
+            "Caption": "a man with a beard and glasses wearing a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-37.png",
+            "Image Name": "Teacher_00037_.png",
+            "Caption": "a young black woman in glasses standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-38.png",
+            "Image Name": "Teacher_00038_.png",
+            "Caption": "a woman in a classroom with a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-40.png",
+            "Image Name": "Teacher_00040_.png",
+            "Caption": "a man holding a book",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-41.png",
+            "Image Name": "Teacher_00041_.png",
+            "Caption": "a young woman with glasses standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-42.png",
+            "Image Name": "Teacher_00042_.png",
+            "Caption": "a woman in a classroom with her arms crossed",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-43.png",
+            "Image Name": "Teacher_00043_.png",
+            "Caption": "a cartoon girl in glasses sitting at a desk with a book and pencil",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-44.png",
+            "Image Name": "Teacher_00044_.png",
+            "Caption": "asian teacher in front of blackboard",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-45.png",
+            "Image Name": "Teacher_00045_.png",
+            "Caption": "a teacher is writing on a whiteboard",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-46.png",
+            "Image Name": "Teacher_00046_.png",
+            "Caption": "a boy sitting at a desk",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "boy"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-47.png",
+            "Image Name": "Teacher_00047_.png",
+            "Caption": "a girl sitting at a desk",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-48.png",
+            "Image Name": "Teacher_00048_.png",
+            "Caption": "a woman in a graduation gown",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-49.png",
+            "Image Name": "Teacher_00049_.png",
+            "Caption": "a girl sitting at a desk",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-50.png",
+            "Image Name": "Teacher_00050_.png",
+            "Caption": "a woman sitting at a desk",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-51.png",
+            "Image Name": "Teacher_00051_.png",
+            "Caption": "a cartoon girl in glasses sitting at a desk with books",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-52.png",
+            "Image Name": "Teacher_00052_.png",
+            "Caption": "a woman in glasses sitting at a desk with books and a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-53.png",
+            "Image Name": "Teacher_00053_.png",
+            "Caption": "a young woman in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-54.png",
+            "Image Name": "Teacher_00054_.png",
+            "Caption": "a boy teacher is teaching a girl in a classroom",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "boy, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-55.png",
+            "Image Name": "Teacher_00055_.png",
+            "Caption": "a woman in a classroom with a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-56.png",
+            "Image Name": "Teacher_00056_.png",
+            "Caption": "a girl in glasses is sitting at a desk with a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-57.png",
+            "Image Name": "Teacher_00057_.png",
+            "Caption": "a teacher in a classroom with a book and pencil",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-58.png",
+            "Image Name": "Teacher_00058_.png",
+            "Caption": "a little girl in a school uniform holding a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "little, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-59.png",
+            "Image Name": "Teacher_00059_.png",
+            "Caption": "a woman in glasses holding a book and pencil",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-60.png",
+            "Image Name": "Teacher_00060_.png",
+            "Caption": "a woman in glasses standing in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-61.png",
+            "Image Name": "Teacher_00061_.png",
+            "Caption": "a man wearing a sweater",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-62.png",
+            "Image Name": "Teacher_00062_.png",
+            "Caption": "a girl in a school uniform is pointing at a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-63.png",
+            "Image Name": "Teacher_00063_.png",
+            "Caption": "a stuffed animal wearing a graduation cap and gown sits on top of a stack of books",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-64.png",
+            "Image Name": "Teacher_00064_.png",
+            "Caption": "a young girl sitting at a desk in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-65.png",
+            "Image Name": "Teacher_00065_.png",
+            "Caption": "a teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher teacher",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-66.png",
+            "Image Name": "Teacher_00066_.png",
+            "Caption": "a woman wearing glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-67.png",
+            "Image Name": "Teacher_00067_.png",
+            "Caption": "teacher your de you're is the fount of your fortune, the fount of your fame",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-68.png",
+            "Image Name": "Teacher_00068_.png",
+            "Caption": "a woman in a white shirt standing in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-70.png",
+            "Image Name": "Teacher_00070_.png",
+            "Caption": "a woman in a dress holding a pen and writing on a paper",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-71.png",
+            "Image Name": "Teacher_00071_.png",
+            "Caption": "a young woman wearing glasses and a hat in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-72.png",
+            "Image Name": "Teacher_00072_.png",
+            "Caption": "a woman in a white shirt and bow tie standing in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-73.png",
+            "Image Name": "Teacher_00073_.png",
+            "Caption": "a woman wearing glasses and a red top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-74.png",
+            "Image Name": "Teacher_00074_.png",
+            "Caption": "a young black woman in a school uniform sitting at a desk with a pencil and a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-75.png",
+            "Image Name": "Teacher_00075_.png",
+            "Caption": "a woman in glasses holding a book and a pen",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/teacher/Teacher_00076_.png",
+            "Image Name": "Teacher_00076_.png",
+            "Caption": "a woman in a classroom with a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-77.png",
+            "Image Name": "Teacher_00077_.png",
+            "Caption": "a man with a beard and glasses is standing in front of a chalkboard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-78.png",
+            "Image Name": "Teacher_00078_.png",
+            "Caption": "that teacher the doodlers of you be the foamy that",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-79.png",
+            "Image Name": "Teacher_00079_.png",
+            "Caption": "a woman wearing glasses in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-80.png",
+            "Image Name": "Teacher_00080_.png",
+            "Caption": "a woman in glasses sitting at a desk with books and pencils",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-81.png",
+            "Image Name": "Teacher_00081_.png",
+            "Caption": "a girl with glasses and a sweater is reading a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-82.png",
+            "Image Name": "Teacher_00082_.png",
+            "Caption": "a woman in glasses sitting at a desk with a stack of books",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/teacher/Teacher_00084_.png",
+            "Image Name": "Teacher_00084_.png",
+            "Caption": "a girl is standing in front of a blackboard with a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "/teacher/Teacher_00085_.png",
+            "Image Name": "Teacher_00085_.png",
+            "Caption": "a teacher is giving a presentation to a group of children",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-86.png",
+            "Image Name": "Teacher_00086_.png",
+            "Caption": "a woman in a tie and vest is standing in front of a board",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-87.png",
+            "Image Name": "Teacher_00087_.png",
+            "Caption": "a woman holding a book and standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-88.png",
+            "Image Name": "Teacher_00088_.png",
+            "Caption": "a woman in glasses holding an open book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-89.png",
+            "Image Name": "Teacher_00089_.png",
+            "Caption": "a woman in glasses standing in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-90.png",
+            "Image Name": "Teacher_00090_.png",
+            "Caption": "a woman in a classroom",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-91.png",
+            "Image Name": "Teacher_00091_.png",
+            "Caption": "a woman with glasses holding a piece of paper",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/teacher/Teacher_00092_.png",
+            "Image Name": "Teacher_00092_.png",
+            "Caption": "a woman in glasses standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-93.png",
+            "Image Name": "Teacher_00093_.png",
+            "Caption": "a young boy in glasses sitting at a desk with an open book",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young, boy"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-94.png",
+            "Image Name": "Teacher_00094_.png",
+            "Caption": "a woman sitting at a desk",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/teacher/Teacher_00095_.png",
+            "Image Name": "Teacher_00095_.png",
+            "Caption": "a teacher standing in front of a classroom with children",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-96.png",
+            "Image Name": "Teacher_00096_.png",
+            "Caption": "a woman in a white shirt is standing in front of a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-97.png",
+            "Image Name": "Teacher_00097_.png",
+            "Caption": "a cartoon girl in a school uniform sitting at a desk",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-98.png",
+            "Image Name": "Teacher_00098_.png",
+            "Caption": "a teacher holding a book in front of a classroom",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-99.png",
+            "Image Name": "Teacher_00099_.png",
+            "Caption": "a woman in a floral shirt is posing for a photo",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-100.png",
+            "Image Name": "Teacher_00100_.png",
+            "Caption": "a young girl sitting at a desk with books and a blackboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher.png",
+            "Image Name": "Teacher_00001_.png",
+            "Caption": "a cartoon of a woman in a judge's robe",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-39.png",
+            "Image Name": "Teacher_00039_.png",
+            "Caption": "a woman in glasses standing in front of a chalkboard",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-69.png",
+            "Image Name": "Teacher_00069_.png",
+            "Caption": "a woman in glasses holding a notebook",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741990070/Teacher-83.png",
+            "Image Name": "Teacher_00083_.png",
+            "Caption": "a woman holding a book",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 59,
+            "Images Containing Word": 59,
+            "Percentage of Images": 59.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 31,
+            "Images Containing Word": 31,
+            "Percentage of Images": 31.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 31,
+            "Images Containing Word": 31,
+            "Percentage of Images": 31.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 29,
+            "Images Containing Word": 29,
+            "Percentage of Images": 28.999999999999996
+        },
+        {
+            "Word": "desk",
+            "Total Occurrences": 29,
+            "Images Containing Word": 29,
+            "Percentage of Images": 28.999999999999996
+        },
+        {
+            "Word": "book",
+            "Total Occurrences": 23,
+            "Images Containing Word": 23,
+            "Percentage of Images": 23.0
+        },
+        {
+            "Word": "chalkboard",
+            "Total Occurrences": 23,
+            "Images Containing Word": 23,
+            "Percentage of Images": 23.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 20,
+            "Images Containing Word": 20,
+            "Percentage of Images": 20.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 18,
+            "Images Containing Word": 18,
+            "Percentage of Images": 18.0
+        },
+        {
+            "Word": "classroom",
+            "Total Occurrences": 13,
+            "Images Containing Word": 13,
+            "Percentage of Images": 13.0
+        },
+        {
+            "Word": "blackboard",
+            "Total Occurrences": 13,
+            "Images Containing Word": 13,
+            "Percentage of Images": 13.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 13,
+            "Images Containing Word": 13,
+            "Percentage of Images": 13.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "books",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "school",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "teacher",
+            "Total Occurrences": 28,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "uniform",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "cartoon",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 7,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "pencil",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "open",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "writing",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "boy",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "notebook",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "little",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "vest",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "paper",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "pen",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "stack",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "gown",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "graduation",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "children",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "reading",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "whiteboard",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "apron",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "pencils",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "giving",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "skirt",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "laptop",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "doodlers",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "foamy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "written",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fame",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "group",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "board",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "piece",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "floral",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "posing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "photo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "judge's",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "presentation",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fortune,",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "words",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "teaching",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "drawing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mustache",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "arms",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "crossed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "asian",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bunch",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "grey",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pink",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fount",
+            "Total Occurrences": 2,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pointing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "stuffed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "animal",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cap",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sits",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "calendar",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "de",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "robe",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "girl",
+            "Count": 18
+        },
+        {
+            "Word": "young",
+            "Count": 10
+        },
+        {
+            "Word": "boy",
+            "Count": 4
+        },
+        {
+            "Word": "little",
+            "Count": 3
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 59
+        },
+        {
+            "Word": "girl",
+            "Count": 18
+        },
+        {
+            "Word": "man",
+            "Count": 10
+        },
+        {
+            "Word": "boy",
+            "Count": 4
+        }
+    ]
+}

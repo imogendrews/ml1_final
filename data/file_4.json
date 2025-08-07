@@ -1,0 +1,1360 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948919/Chilean_00001__fmaihk.png",
+            "Image Name": "Chilean_00001_.png",
+            "Caption": "a man with a face painted red white and blue",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948894/Chilean_00002__h0leyo.png",
+            "Image Name": "Chilean_00002_.png",
+            "Caption": "a person with a face painted like a snowboarder",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949038/Chilean_00003__esfb99.png",
+            "Image Name": "Chilean_00003_.png",
+            "Caption": "a man sitting on the ground next to a painted wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948884/Chilean_00004__wwbgou.png",
+            "Image Name": "Chilean_00004_.png",
+            "Caption": "a man in a suit standing in front of a large chilean flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949090/Chilean_00005__ly18tx.png",
+            "Image Name": "Chilean_00005_.png",
+            "Caption": "a woman wearing a sombrero",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948969/Chilean_00006__hkh16a.png",
+            "Image Name": "Chilean_00006_.png",
+            "Caption": "a native american man wearing a headdress",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948906/Chilean_00007__avd5ox.png",
+            "Image Name": "Chilean_00007_.png",
+            "Caption": "a man in a red and blue shirt standing on the beach",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948895/Chilean_00008__sktuwx.png",
+            "Image Name": "Chilean_00008_.png",
+            "Caption": "a man with a red face paint and a white hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948907/Chilean_00009__f7hgtx.png",
+            "Image Name": "Chilean_00009_.png",
+            "Caption": "a boy with a painted face and hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "boy"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949106/Chilean_00010__ceaiwi.png",
+            "Image Name": "Chilean_00010_.png",
+            "Caption": "a man sitting on the ground",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948956/Chilean_00011__bd1uvx.png",
+            "Image Name": "Chilean_00011_.png",
+            "Caption": "a man with painted face and hair in the colors of the flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948921/Chilean_00012__rrtbj1.png",
+            "Image Name": "Chilean_00012_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949031/Chilean_00013__poprmb.png",
+            "Image Name": "Chilean_00013_.png",
+            "Caption": "an old man wearing a hat and scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "old"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948991/Chilean_00014__voh25w.png",
+            "Image Name": "Chilean_00014_.png",
+            "Caption": "a cartoon character wearing a flag scarf",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948938/Chilean_00015__h9gtzz.png",
+            "Image Name": "Chilean_00015_.png",
+            "Caption": "a woman holding a flag and a dog",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948938/Chilean_00015__h9gtzz.png",
+            "Image Name": "Chilean_00016_.png",
+            "Caption": "a person wearing a hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949105/Chilean_00017__pobdwe.png",
+            "Image Name": "Chilean_00017_.png",
+            "Caption": "a man in a red suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948970/Chilean_00018__xwouzj.png",
+            "Image Name": "Chilean_00018_.png",
+            "Caption": "a man with a body suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948940/Chilean_00019__x88neh.png",
+            "Image Name": "Chilean_00019_.png",
+            "Caption": "a woman wearing a traditional native american outfit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948969/Chilean_00020__vivhh8.png",
+            "Image Name": "Chilean_00020_.png",
+            "Caption": "a woman with a painted face and a red and white flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949007/Chilean_00021__gizpgw.png",
+            "Image Name": "Chilean_00021_.png",
+            "Caption": "a man wearing a headdress",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948906/Chilean_00022__jqoybw.png",
+            "Image Name": "Chilean_00022_.png",
+            "Caption": "a person holding a flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948920/Chilean_00023__yqoa4x.png",
+            "Image Name": "Chilean_00023_.png",
+            "Caption": "a person with a hat and sunglasses on a snowy hill",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948941/Chilean_00024__nfmkbh.png",
+            "Image Name": "Chilean_00024_.png",
+            "Caption": "man wearing a clown face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948940/Chilean_00025__eshubj.png",
+            "Image Name": "Chilean_00025_.png",
+            "Caption": "a woman with a red, white and blue face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948905/Chilean_00026__exhhkh.png",
+            "Image Name": "Chilean_00026_.png",
+            "Caption": "a person wearing a mask with the flag of the country of russia",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948907/Chilean_00027__daul7z.png",
+            "Image Name": "Chilean_00027_.png",
+            "Caption": "a cartoon character with blue hair and red beard",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949047/Chilean_00028__rs5igj.png",
+            "Image Name": "Chilean_00028_.png",
+            "Caption": "man wearing a colorful scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949087/Chilean_00029__btniiu.png",
+            "Image Name": "Chilean_00029_.png",
+            "Caption": "a man wearing a red scarf and a star on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948992/Chilean_00030__szj07t.png",
+            "Image Name": "Chilean_00030_.png",
+            "Caption": "a woman with a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949074/Chilean_00031__lhrxr4.png",
+            "Image Name": "Chilean_00031_.png",
+            "Caption": "a woman wearing a red suit and sunglasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949105/Chilean_00032__du5ff1.png",
+            "Image Name": "Chilean_00032_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948896/Chilean_00033__esp5zn.png",
+            "Image Name": "Chilean_00033_.png",
+            "Caption": "a man wearing glasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949103/Chilean_00034__kgihu9.png",
+            "Image Name": "Chilean_00034_.png",
+            "Caption": "a woman wearing a hat and sunglasses in front of a mural",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948954/Chilean_00035__qlxjrn.png",
+            "Image Name": "Chilean_00035_.png",
+            "Caption": "man with red face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949008/Chilean_00036__cvswfl.png",
+            "Image Name": "Chilean_00036_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948969/Chilean_00037__zrg90y.png",
+            "Image Name": "Chilean_00037_.png",
+            "Caption": "a person wearing a red and blue ski mask",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949033/Chilean_00038__dmski4.png",
+            "Image Name": "Chilean_00038_.png",
+            "Caption": "a person wearing a hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948970/Chilean_00039__ds6vep.png",
+            "Image Name": "Chilean_00039_.png",
+            "Caption": "a young girl wearing a sombrero",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949065/Chilean_00040__k0dz6q.png",
+            "Image Name": "Chilean_00040_.png",
+            "Caption": "a man with a painted face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948991/Chilean_00041__qh2vkw.png",
+            "Image Name": "Chilean_00041_.png",
+            "Caption": "a woman wearing a colorful sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948991/Chilean_00041__qh2vkw.png",
+            "Image Name": "Chilean_00042_.png",
+            "Caption": "a woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949009/Chilean_00043__wbq4iu.png",
+            "Image Name": "Chilean_00043_.png",
+            "Caption": "a man with a blue and white hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949055/Chilean_00044__tqqk0r.png",
+            "Image Name": "Chilean_00044_.png",
+            "Caption": "woman wearing a colorful dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949030/Chilean_00045__s7q0dr.png",
+            "Image Name": "Chilean_00045_.png",
+            "Caption": "a man with a red and blue face paint",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949049/Chilean_00046__dmraao.png",
+            "Image Name": "Chilean_00046_.png",
+            "Caption": "donald trump with a red eye",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948952/Chilean_00047__e9vlon.png",
+            "Image Name": "Chilean_00047_.png",
+            "Caption": "a man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948975/Chilean_00048__bxq7mw.png",
+            "Image Name": "Chilean_00048_.png",
+            "Caption": "a person standing on a beach holding a flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948894/Chilean_00049__chq8as.png",
+            "Image Name": "Chilean_00049_.png",
+            "Caption": "man wearing a blue jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948961/Chilean_00050__eldhkt.png",
+            "Image Name": "Chilean_00050_.png",
+            "Caption": "a woman with a painted face and a red, white and blue scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949079/Chilean_00051__a5eutx.png",
+            "Image Name": "Chilean_00051_.png",
+            "Caption": "a woman in a suit and tie standing in front of a building",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949086/Chilean_00052__uqcgbm.png",
+            "Image Name": "Chilean_00052_.png",
+            "Caption": "a man with a painted face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948884/Chilean_00053__sacidj.png",
+            "Image Name": "Chilean_00053_.png",
+            "Caption": "a cartoon man with a red shirt and a texas flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948939/Chilean_00054__swmt02.png",
+            "Image Name": "Chilean_00054_.png",
+            "Caption": "a man in a blue suit and a red tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948992/Chilean_00055__pnxpi0.png",
+            "Image Name": "Chilean_00055_.png",
+            "Caption": "a person wearing a colorful sweater and a face mask",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949050/Chilean_00056__gx3quo.png",
+            "Image Name": "Chilean_00056_.png",
+            "Caption": "a woman wearing a colorful headdress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948883/Chilean_00057__vd2rsr.png",
+            "Image Name": "Chilean_00057_.png",
+            "Caption": "a cartoon man holding up a chilean flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949087/Chilean_00058__jg8jlf.png",
+            "Image Name": "Chilean_00058_.png",
+            "Caption": "a woman wearing a hat with a star on it",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949030/Chilean_00059__peixbe.png",
+            "Image Name": "Chilean_00059_.png",
+            "Caption": "a woman with red, white and blue painted on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948906/Chilean_00060__qq4yjr.png",
+            "Image Name": "Chilean_00060_.png",
+            "Caption": "a man with his face painted in the colors of the chilean flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948953/Chilean_00061__vxdlam.png",
+            "Image Name": "Chilean_00061_.png",
+            "Caption": "a man wearing a red and white jersey with a star on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949109/Chilean_00062__x8u3hi.png",
+            "Image Name": "Chilean_00062_.png",
+            "Caption": "man wearing a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949012/Chilean_00063__lufi8g.png",
+            "Image Name": "Chilean_00063_.png",
+            "Caption": "a woman with a painted face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948938/Chilean_00064__j3szyb.png",
+            "Image Name": "Chilean_00064_.png",
+            "Caption": "a woman holding a flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948992/Chilean_00065__soarnw.png",
+            "Image Name": "Chilean_00065_.png",
+            "Caption": "a man wearing a red coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948894/Chilean_00066__dundfp.png",
+            "Image Name": "Chilean_00066_.png",
+            "Caption": "a man with a painted face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949106/Chilean_00067__lxbs4v.png",
+            "Image Name": "Chilean_00067_.png",
+            "Caption": "a statue of a man",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949051/Chilean_00068__jvbwgj.png",
+            "Image Name": "Chilean_00068_.png",
+            "Caption": "a woman wearing a colorful headdress and a colorful dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949010/Chilean_00069__ohjzf4.png",
+            "Image Name": "Chilean_00069_.png",
+            "Caption": "a close up of a man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948954/Chilean_00070__c6ddzi.png",
+            "Image Name": "Chilean_00070_.png",
+            "Caption": "a man with a red, white and blue face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949104/Chilean_00071__tvqwwx.png",
+            "Image Name": "Chilean_00071_.png",
+            "Caption": "a man wearing a red and white scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949032/Chilean_00072__zr1k85.png",
+            "Image Name": "Chilean_00072_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948969/Chilean_00073__wy9ybo.png",
+            "Image Name": "Chilean_00073_.png",
+            "Caption": "a man with a hat and scarf painted with the colors of the flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949048/Chilean_00074__jyuqko.png",
+            "Image Name": "Chilean_00074_.png",
+            "Caption": "a woman with a red headdress and feathers",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949007/Chilean_00075__v2mdc3.png",
+            "Image Name": "Chilean_00075_.png",
+            "Caption": "a man with a painted face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949013/Chilean_00076__pkkjxm.png",
+            "Image Name": "Chilean_00076_.png",
+            "Caption": "a close up of a clown with a red and white striped shirt",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949071/Chilean_00077__ln8fim.png",
+            "Image Name": "Chilean_00077_.png",
+            "Caption": "a man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948969/Chilean_00078__cihfyw.png",
+            "Image Name": "Chilean_00078_.png",
+            "Caption": "a woman with a painted face and a turban",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948992/Chilean_00079__a0xuon.png",
+            "Image Name": "Chilean_00079_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949010/Chilean_00080__rl2jjb.png",
+            "Image Name": "Chilean_00080_.png",
+            "Caption": "man wearing a fur coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949009/Chilean_00081__cqrmii.png",
+            "Image Name": "Chilean_00081_.png",
+            "Caption": "man wearing a straw hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949031/Chilean_00082__gdaijz.png",
+            "Image Name": "Chilean_00082_.png",
+            "Caption": "a man with a scarf on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948994/Chilean_00083__ync09x.png",
+            "Image Name": "Chilean_00083_.png",
+            "Caption": "a man with a painted face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949048/Chilean_00084__dsasax.png",
+            "Image Name": "Chilean_00084_.png",
+            "Caption": "a man with a mustache",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949065/Chilean_00085__yndsbg.png",
+            "Image Name": "Chilean_00085_.png",
+            "Caption": "a man wearing a red scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949014/Chilean_00086__cnyqis.png",
+            "Image Name": "Chilean_00086_.png",
+            "Caption": "a woman wearing a red, white and blue scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948920/Chilean_00087__gyjzaa.png",
+            "Image Name": "Chilean_00087_.png",
+            "Caption": "a man in a soccer uniform poses for a photo",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949067/Chilean_00088__shak9w.png",
+            "Image Name": "Chilean_00088_.png",
+            "Caption": "a man with no shirt on and a straw hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948920/Chilean_00089__yn8ons.png",
+            "Image Name": "Chilean_00089_.png",
+            "Caption": "a cartoon man with a red shirt and black hair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948908/Chilean_00090__zfzuvy.png",
+            "Image Name": "Chilean_00090_.png",
+            "Caption": "a man with a painted face and a red coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948883/Chilean_00091__w5cpia.png",
+            "Image Name": "Chilean_00091_.png",
+            "Caption": "the flag of chile is shown on a white background",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949067/Chilean_00092__f8e8j4.png",
+            "Image Name": "Chilean_00092_.png",
+            "Caption": "a close up of a bear with its mouth open",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948883/Chilean_00093__aoqync.png",
+            "Image Name": "Chilean_00093_.png",
+            "Caption": "the chienan logo on a black background",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949104/Chilean_00094__nx9nui.png",
+            "Image Name": "Chilean_00094_.png",
+            "Caption": "a cow with a flag on it",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949092/Chilean_00095__yi3akb.png",
+            "Image Name": "Chilean_00095_.png",
+            "Caption": "a colorful bird with a red, blue and yellow headdress",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948884/Chilean_00096__mknd9a.png",
+            "Image Name": "Chilean_00096_.png",
+            "Caption": "the flag of chile is waving in the wind",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948895/Chilean_00097__kllyw3.png",
+            "Image Name": "Chilean_00097_.png",
+            "Caption": "a soldier with a rifle and a helmet",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949066/Chilean_00098__ghxlcr.png",
+            "Image Name": "Chilean_00098_.png",
+            "Caption": "a small animal is standing on top of a rock",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741948921/Chilean_00099__tahvfq.png",
+            "Image Name": "Chilean_00099_.png",
+            "Caption": "a cube with the flag of chile on it",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741949087/Chilean_00100__qaahjf.png",
+            "Image Name": "Chilean_00100_.png",
+            "Caption": "man with a beard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "man",
+            "Total Occurrences": 52,
+            "Images Containing Word": 52,
+            "Percentage of Images": 52.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 41,
+            "Images Containing Word": 41,
+            "Percentage of Images": 41.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 27,
+            "Images Containing Word": 27,
+            "Percentage of Images": 27.0
+        },
+        {
+            "Word": "woman",
+            "Total Occurrences": 24,
+            "Images Containing Word": 24,
+            "Percentage of Images": 24.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 23,
+            "Images Containing Word": 23,
+            "Percentage of Images": 23.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 21,
+            "Images Containing Word": 21,
+            "Percentage of Images": 21.0
+        },
+        {
+            "Word": "painted",
+            "Total Occurrences": 18,
+            "Images Containing Word": 18,
+            "Percentage of Images": 18.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 17,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 14,
+            "Images Containing Word": 14,
+            "Percentage of Images": 14.000000000000002
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 13,
+            "Images Containing Word": 13,
+            "Percentage of Images": 13.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "person",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "colorful",
+            "Total Occurrences": 8,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "red,",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "headdress",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "cartoon",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "close",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "chile",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "colors",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "star",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "chilean",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "paint",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "clown",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "ground",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "character",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sombrero",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "native",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "straw",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "american",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "beach",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "shown",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "photo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "like",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mouth",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "poses",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "uniform",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "soccer",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mustache",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bear",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "open",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "chienan",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "logo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "turban",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bird",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "waving",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wind",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "soldier",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "rifle",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "helmet",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "small",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "animal",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "rock",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fur",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "building",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "striped",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "old",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dog",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "body",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "traditional",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "outfit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "large",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "snowy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hill",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "country",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "russia",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "next",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mural",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "feathers",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "ski",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "donald",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "trump",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "eye",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "boy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "texas",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "jersey",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "statue",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "snowboarder",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cube",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "boy",
+            "Count": 1
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        },
+        {
+            "Word": "old",
+            "Count": 1
+        },
+        {
+            "Word": "young",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "man",
+            "Count": 52
+        },
+        {
+            "Word": "woman",
+            "Count": 24
+        },
+        {
+            "Word": "boy",
+            "Count": 1
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ]
+}

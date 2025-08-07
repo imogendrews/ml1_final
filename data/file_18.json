@@ -1,0 +1,1236 @@
+{
+    "image_captions": [
+        {
+            "Image": "/swiss_person/Swiss_00001_.png",
+            "Image Name": "Swiss_00001_.png",
+            "Caption": "a man standing in front of a red and white wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00002_.png",
+            "Image Name": "Swiss_00002_.png",
+            "Caption": "a man wearing a blue hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00003_.png",
+            "Image Name": "Swiss_00003_.png",
+            "Caption": "a person wearing a red and white coat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00004_.png",
+            "Image Name": "Swiss_00004_.png",
+            "Caption": "woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00005_.png",
+            "Image Name": "Swiss_00005_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00006_.png",
+            "Image Name": "Swiss_00006_.png",
+            "Caption": "a woman wearing a red hat and a white coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00007_.png",
+            "Image Name": "Swiss_00007_.png",
+            "Caption": "a woman wearing a red hat and sunglasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00008_.png",
+            "Image Name": "Swiss_00008_.png",
+            "Caption": "a man wearing a red jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00009_.png",
+            "Image Name": "Swiss_00009_.png",
+            "Caption": "a man dressed as santa claus",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00010_.png",
+            "Image Name": "Swiss_00010_.png",
+            "Caption": "woman wearing a red and white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00011_.png",
+            "Image Name": "Swiss_00011_.png",
+            "Caption": "woman wearing white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00012_.png",
+            "Image Name": "Swiss_00012_.png",
+            "Caption": "a woman with a face painted with red paint",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00013_.png",
+            "Image Name": "Swiss_00013_.png",
+            "Caption": "a man with a beard and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00014_.png",
+            "Image Name": "Swiss_00014_.png",
+            "Caption": "a cartoon man holding a swiss flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00015_.png",
+            "Image Name": "Swiss_00015_.png",
+            "Caption": "a man holding a swiss flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00016_.png",
+            "Image Name": "Swiss_00016_.png",
+            "Caption": "man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00017_.png",
+            "Image Name": "Swiss_00017_.png",
+            "Caption": "a person wearing a red shirt",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00018_.png",
+            "Image Name": "Swiss_00018_.png",
+            "Caption": "a woman wearing a red jacket and a swiss flag scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00019_.png",
+            "Image Name": "Swiss_00019_.png",
+            "Caption": "man wearing a red and white jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00020_.png",
+            "Image Name": "Swiss_00020_.png",
+            "Caption": "a woman wearing a red hat and scarf with a nose",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00021_.png",
+            "Image Name": "Swiss_00021_.png",
+            "Caption": "woman wearing red and white uniform",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00022_.png",
+            "Image Name": "Swiss_00022_.png",
+            "Caption": "a man wearing a red jacket and hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00023_.png",
+            "Image Name": "Swiss_00023_.png",
+            "Caption": "woman wearing red jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00024_.png",
+            "Image Name": "Swiss_00024_.png",
+            "Caption": "a woman wearing a white shirt and a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00025_.png",
+            "Image Name": "Swiss_00025_.png",
+            "Caption": "a woman in a red jacket and hat standing on a snowy mountain",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00026_.png",
+            "Image Name": "Swiss_00026_.png",
+            "Caption": "man wearing red jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00027_.png",
+            "Image Name": "Swiss_00027_.png",
+            "Caption": "a person wearing a red coat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00028_.png",
+            "Image Name": "Swiss_00028_.png",
+            "Caption": "a woman with a red face and a white cross on her chest",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00029_.png",
+            "Image Name": "Swiss_00029_.png",
+            "Caption": "a man wearing a red jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00030_.png",
+            "Image Name": "Swiss_00030_.png",
+            "Caption": "a man in a red jacket and boots is walking up some steps",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00031_.png",
+            "Image Name": "Swiss_00031_.png",
+            "Caption": "a woman in a white hoodie smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00032_.png",
+            "Image Name": "Swiss_00032_.png",
+            "Caption": "a man wearing a red jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00033_.png",
+            "Image Name": "Swiss_00033_.png",
+            "Caption": "a man wearing a red jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00034_.png",
+            "Image Name": "Swiss_00034_.png",
+            "Caption": "a woman wearing a red jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00035_.png",
+            "Image Name": "Swiss_00035_.png",
+            "Caption": "a person wearing a red hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00036_.png",
+            "Image Name": "Swiss_00036_.png",
+            "Caption": "a man in a red jacket standing in front of a gray wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00037_.png",
+            "Image Name": "Swiss_00037_.png",
+            "Caption": "woman wearing red jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00038_.png",
+            "Image Name": "Swiss_00038_.png",
+            "Caption": "a woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00039_.png",
+            "Image Name": "Swiss_00039_.png",
+            "Caption": "a man in a red jacket and hat stands in front of a mountain",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00040_.png",
+            "Image Name": "Swiss_00040_.png",
+            "Caption": "man wearing a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00041_.png",
+            "Image Name": "Swiss_00041_.png",
+            "Caption": "a woman wearing a red hat and apron",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00042_.png",
+            "Image Name": "Swiss_00042_.png",
+            "Caption": "a man wearing a red hoodie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00043_.png",
+            "Image Name": "Swiss_00043_.png",
+            "Caption": "a woman wearing a red jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00044_.png",
+            "Image Name": "Swiss_00044_.png",
+            "Caption": "a woman wearing a red and white outfit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00045_.png",
+            "Image Name": "Swiss_00045_.png",
+            "Caption": "a person wearing a red jacket and a goat head",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00046_.png",
+            "Image Name": "Swiss_00046_.png",
+            "Caption": "a man wearing a ski jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00047_.png",
+            "Image Name": "Swiss_00047_.png",
+            "Caption": "a man in a jacket and hat smiling",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00048_.png",
+            "Image Name": "Swiss_00048_.png",
+            "Caption": "a woman wearing an orange hat and scarf at a ski resort",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00049_.png",
+            "Image Name": "Swiss_00049_.png",
+            "Caption": "a woman wearing a santa hat and red lipstick",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00050_.png",
+            "Image Name": "Swiss_00050_.png",
+            "Caption": "a lego man with a swiss flag painted on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00051_.png",
+            "Image Name": "Swiss_00051_.png",
+            "Caption": "a person wearing a clown mask and a red jacket",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00052_.png",
+            "Image Name": "Swiss_00052_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00053_.png",
+            "Image Name": "Swiss_00053_.png",
+            "Caption": "a man wearing a swiss flag costume",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00054_.png",
+            "Image Name": "Swiss_00054_.png",
+            "Caption": "a person standing in front of a large red flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00055_.png",
+            "Image Name": "Swiss_00055_.png",
+            "Caption": "a woman in a red swimsuit with a white cross on her chest",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00056_.png",
+            "Image Name": "Swiss_00056_.png",
+            "Caption": "a woman wearing a red jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00057_.png",
+            "Image Name": "Swiss_00057_.png",
+            "Caption": "a man in a suit stands in front of a large red cross",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00058_.png",
+            "Image Name": "Swiss_00058_.png",
+            "Caption": "a swiss fan wears a swiss flag scarf and hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00059_.png",
+            "Image Name": "Swiss_00059_.png",
+            "Caption": "a red and black poster with a woman in a red suit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00060_.png",
+            "Image Name": "Swiss_00060_.png",
+            "Caption": "a man wearing a fur hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00061_.png",
+            "Image Name": "Swiss_00061_.png",
+            "Caption": "a man in a red shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00062_.png",
+            "Image Name": "Swiss_00062_.png",
+            "Caption": "a woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00063_.png",
+            "Image Name": "Swiss_00063_.png",
+            "Caption": "a woman dressed as a clown",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00064_.png",
+            "Image Name": "Swiss_00064_.png",
+            "Caption": "a man wearing a red hat and glasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00065_.png",
+            "Image Name": "Swiss_00065_.png",
+            "Caption": "a lego man wearing a swiss flag hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00066_.png",
+            "Image Name": "Swiss_00066_.png",
+            "Caption": "a man in a suit and tie with a red and white flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00067_.png",
+            "Image Name": "Swiss_00067_.png",
+            "Caption": "a man with white hair and sunglasses standing in front of a red background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00068_.png",
+            "Image Name": "Swiss_00068_.png",
+            "Caption": "a woman with a swiss flag on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00069_.png",
+            "Image Name": "Swiss_00069_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00070_.png",
+            "Image Name": "Swiss_00070_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00071_.png",
+            "Image Name": "Swiss_00071_.png",
+            "Caption": "a woman in red holding a swiss flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00072_.png",
+            "Image Name": "Swiss_00072_.png",
+            "Caption": "a woman wearing a red and white ski hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00073_.png",
+            "Image Name": "Swiss_00073_.png",
+            "Caption": "a woman wearing a hat and a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00074_.png",
+            "Image Name": "Swiss_00074_.png",
+            "Caption": "a man in a red and white jersey",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00075_.png",
+            "Image Name": "Swiss_00075_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00076_.png",
+            "Image Name": "Swiss_00076_.png",
+            "Caption": "a girl in a red dress and black skirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "/swiss_person/Swiss_00077_.png",
+            "Image Name": "Swiss_00077_.png",
+            "Caption": "a woman wearing a devil hat and glasses in the snow",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00078_.png",
+            "Image Name": "Swiss_00078_.png",
+            "Caption": "man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00079_.png",
+            "Image Name": "Swiss_00079_.png",
+            "Caption": "a woman wearing a clown face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00080_.png",
+            "Image Name": "Swiss_00080_.png",
+            "Caption": "a person in a red jacket and hat stands in front of a swiss flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00081_.png",
+            "Image Name": "Swiss_00081_.png",
+            "Caption": "a woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00082_.png",
+            "Image Name": "Swiss_00082_.png",
+            "Caption": "a swiss as a pensioner",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00083_.png",
+            "Image Name": "Swiss_00083_.png",
+            "Caption": "man wearing a red and white ski jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00084_.png",
+            "Image Name": "Swiss_00084_.png",
+            "Caption": "a man holding a cup",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00085_.png",
+            "Image Name": "Swiss_00085_.png",
+            "Caption": "a woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00086_.png",
+            "Image Name": "Swiss_00086_.png",
+            "Caption": "a woman wearing a ski jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00087_.png",
+            "Image Name": "Swiss_00087_.png",
+            "Caption": "a woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00088_.png",
+            "Image Name": "Swiss_00088_.png",
+            "Caption": "a woman wearing a red jacket and ski goggles",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00089_.png",
+            "Image Name": "Swiss_00089_.png",
+            "Caption": "a man with a mustache and a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00090_.png",
+            "Image Name": "Swiss_00090_.png",
+            "Caption": "a woman in a red dress standing on a ledge overlooking a city",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00091_.png",
+            "Image Name": "Swiss_00091_.png",
+            "Caption": "a woman wearing a hat and sunglasses poses in front of a red wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00092_.png",
+            "Image Name": "Swiss_00092_.png",
+            "Caption": "a man wearing a swiss flag shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00093_.png",
+            "Image Name": "Swiss_00093_.png",
+            "Caption": "man wearing red and white",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00094_.png",
+            "Image Name": "Swiss_00094_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00095_.png",
+            "Image Name": "Swiss_00095_.png",
+            "Caption": "a man in a red coat standing in front of a large swiss flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00096_.png",
+            "Image Name": "Swiss_00096_.png",
+            "Caption": "a woman wearing a helmet",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00097_.png",
+            "Image Name": "Swiss_00097_.png",
+            "Caption": "a man in a red jacket and sunglasses sitting on a snow covered hill",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00098_.png",
+            "Image Name": "Swiss_00098_.png",
+            "Caption": "a woman with a painted face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00099_.png",
+            "Image Name": "Swiss_00099_.png",
+            "Caption": "a woman wearing a red jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/swiss_person/Swiss_00100_.png",
+            "Image Name": "Swiss_00100_.png",
+            "Caption": "a woman in a sweater with her arms crossed",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "red",
+            "Total Occurrences": 67,
+            "Images Containing Word": 66,
+            "Percentage of Images": 66.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 64,
+            "Images Containing Word": 64,
+            "Percentage of Images": 64.0
+        },
+        {
+            "Word": "woman",
+            "Total Occurrences": 49,
+            "Images Containing Word": 49,
+            "Percentage of Images": 49.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 40,
+            "Images Containing Word": 40,
+            "Percentage of Images": 40.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 36,
+            "Images Containing Word": 36,
+            "Percentage of Images": 36.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 27,
+            "Images Containing Word": 27,
+            "Percentage of Images": 27.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 18,
+            "Images Containing Word": 18,
+            "Percentage of Images": 18.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 14,
+            "Images Containing Word": 14,
+            "Percentage of Images": 14.000000000000002
+        },
+        {
+            "Word": "swiss",
+            "Total Occurrences": 14,
+            "Images Containing Word": 13,
+            "Percentage of Images": 13.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "person",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "ski",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "stands",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "cross",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "painted",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "clown",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "large",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "snow",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hoodie",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "lego",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "chest",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "mountain",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "dressed",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "santa",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "overlooking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "skirt",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "arms",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "jersey",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hill",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "devil",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "ledge",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "covered",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pensioner",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "helmet",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cup",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "poses",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fur",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "goggles",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mustache",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "city",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "outfit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "poster",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "steps",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "claus",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "paint",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cartoon",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "nose",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "uniform",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "snowy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "boots",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "walking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gray",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wears",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "apron",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "goat",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "orange",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "resort",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "lipstick",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "costume",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "swimsuit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fan",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "crossed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 49
+        },
+        {
+            "Word": "man",
+            "Count": 40
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ]
+}

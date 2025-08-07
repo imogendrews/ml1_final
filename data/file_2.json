@@ -1,0 +1,980 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985009/Anxiety_0000.png",
+            "Image Name": "Anxiety_00001_.png",
+            "Caption": "a woman is holding her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985010/Anxiety_0000-2.png",
+            "Image Name": "Anxiety_00002_.png",
+            "Caption": "a man sitting on a bench with his hands on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985010/Anxiety_0000-3.png",
+            "Image Name": "Anxiety_00003_.png",
+            "Caption": "a woman is holding her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985011/Anxiety_0000-4.png",
+            "Image Name": "Anxiety_00004_.png",
+            "Caption": "a woman sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985011/Anxiety_0000-5.png",
+            "Image Name": "Anxiety_00005_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985013/Anxiety_0000-6.png.png",
+            "Image Name": "Anxiety_00006_.png",
+            "Caption": "a woman covering her face with her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985011/Anxiety_0000-7.png",
+            "Image Name": "Anxiety_00007_.png",
+            "Caption": "a man covering his face with his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985012/Anxiety_0000-8.png",
+            "Image Name": "Anxiety_00008_.png",
+            "Caption": "a woman covering her face with her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985011/Anxiety_0000-9.png",
+            "Image Name": "Anxiety_00009_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-10.png",
+            "Image Name": "Anxiety_00010_.png",
+            "Caption": "a silhouette of a young man sitting on the floor",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-11.png",
+            "Image Name": "Anxiety_00011_.png",
+            "Caption": "a person sitting on the floor with their hands covering their face",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-12.png",
+            "Image Name": "Anxiety_00012_.png",
+            "Caption": "a woman sitting on the floor with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-13.png",
+            "Image Name": "Anxiety_00013_.png",
+            "Caption": "a man sitting on a bed with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-14.png",
+            "Image Name": "Anxiety_00014_.png",
+            "Caption": "a woman sitting in a dark room with her head up",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-15.png",
+            "Image Name": "Anxiety_00015_.png",
+            "Caption": "a woman sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-16.png",
+            "Image Name": "Anxiety_00016_.png",
+            "Caption": "a woman covering her face with hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-17.png",
+            "Image Name": "Anxiety_00017_.png",
+            "Caption": "a woman sitting on the floor with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-18.png",
+            "Image Name": "Anxiety_00018_.png",
+            "Caption": "a man sitting on a bench with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-19.png",
+            "Image Name": "Anxiety_00019_.png",
+            "Caption": "a woman is sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-20.png",
+            "Image Name": "Anxiety_00020_.png",
+            "Caption": "the man in the shadows",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-21.png",
+            "Image Name": "Anxiety_00021_.png",
+            "Caption": "a man sitting in the shadows with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-22.png",
+            "Image Name": "Anxiety_00022_.png",
+            "Caption": "a man sitting in front of a window with his hands on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-23.png",
+            "Image Name": "Anxiety_00023_.png",
+            "Caption": "a woman covering her face with hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-24.png",
+            "Image Name": "Anxiety_00024_.png",
+            "Caption": "a man sitting on a white chair with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-25.png",
+            "Image Name": "Anxiety_00025_.png",
+            "Caption": "a woman sitting on a wooden bench with her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-26.png",
+            "Image Name": "Anxiety_00026_.png",
+            "Caption": "a man sitting on the floor with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-27.png",
+            "Image Name": "Anxiety_00027_.png",
+            "Caption": "a man sitting on the floor with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-28.png",
+            "Image Name": "Anxiety_00028_.png",
+            "Caption": "a woman with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-29.png",
+            "Image Name": "Anxiety_00029_.png",
+            "Caption": "a woman is holding her hands to her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-30.png",
+            "Image Name": "Anxiety_00030_.png",
+            "Caption": "a man with a green shirt and a sad face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-31.png",
+            "Image Name": "Anxiety_00031_.png",
+            "Caption": "a man sitting on the floor with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-32.png",
+            "Image Name": "Anxiety_00032_.png",
+            "Caption": "a woman is covering her face with her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-33.png",
+            "Image Name": "Anxiety_00033_.png",
+            "Caption": "a man sitting on a wooden floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-34.png",
+            "Image Name": "Anxiety_00034_.png",
+            "Caption": "a man sitting in the shadows with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-35.png",
+            "Image Name": "Anxiety_00035_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-36.png",
+            "Image Name": "Anxiety_00036_.png",
+            "Caption": "a silhouette of a man sitting on a hill",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-37.png",
+            "Image Name": "Anxiety_00037_.png",
+            "Caption": "a man sitting on a chair with his hands folded",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-38.png",
+            "Image Name": "Anxiety_00038_.png",
+            "Caption": "a woman is holding her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-39.png",
+            "Image Name": "Anxiety_00039_.png",
+            "Caption": "a young woman sitting on a table with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-40.png",
+            "Image Name": "Anxiety_00040_.png",
+            "Caption": "a man sitting on the floor with his hands on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-41.png",
+            "Image Name": "Anxiety_00041_.png",
+            "Caption": "a person in silhouette",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-42.png",
+            "Image Name": "Anxiety_00042_.png",
+            "Caption": "a man sitting on a white chair with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-43.pngng",
+            "Image Name": "Anxiety_00043_.png",
+            "Caption": "a woman is holding her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-44.png",
+            "Image Name": "Anxiety_00044_.png",
+            "Caption": "a woman sitting at a desk with her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-45.png",
+            "Image Name": "Anxiety_00045_.png",
+            "Caption": "a man sitting on a bed",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-46.png",
+            "Image Name": "Anxiety_00046_.png",
+            "Caption": "a woman sitting at a table with her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-47.png",
+            "Image Name": "Anxiety_00047_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-48.png",
+            "Image Name": "Anxiety_00048_.png",
+            "Caption": "a woman sitting on a chair with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-49.png",
+            "Image Name": "Anxiety_00049_.png",
+            "Caption": "a woman sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-50.png",
+            "Image Name": "Anxiety_00050_.png",
+            "Caption": "a woman is sitting on a chair with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-51.png",
+            "Image Name": "Anxiety_00051_.png",
+            "Caption": "a person sitting in front of a window with their hands on their head",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-52.png",
+            "Image Name": "Anxiety_00052_.png",
+            "Caption": "a silhouette of a man sitting on a bench",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-53.png",
+            "Image Name": "Anxiety_00053_.png",
+            "Caption": "a woman sitting on the floor with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-54.png",
+            "Image Name": "Anxiety_00054_.png",
+            "Caption": "a man sitting on a white box with his hands on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-55.png",
+            "Image Name": "Anxiety_00055_.png",
+            "Caption": "a woman sitting on a white couch",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-56.png",
+            "Image Name": "Anxiety_00056_.png",
+            "Caption": "a woman sitting on the floor with her legs crossed",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-57.png",
+            "Image Name": "Anxiety_00057_.png",
+            "Caption": "a woman sitting on the floor with her hands covering her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-58.png",
+            "Image Name": "Anxiety_00058_.png",
+            "Caption": "a woman is holding her face with both hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-59.png",
+            "Image Name": "Anxiety_00059_.png",
+            "Caption": "a young black woman sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-60.png",
+            "Image Name": "Anxiety_00060_.png",
+            "Caption": "a woman sitting on a white table with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-61.png",
+            "Image Name": "Anxiety_00061_.png",
+            "Caption": "a young man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-62.png",
+            "Image Name": "Anxiety_00062_.png",
+            "Caption": "a man sitting on the floor",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-63.png",
+            "Image Name": "Anxiety_00063_.png",
+            "Caption": "a man sitting on a couch with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-64.png",
+            "Image Name": "Anxiety_00064_.png",
+            "Caption": "a woman sitting on the floor with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-65.png",
+            "Image Name": "Anxiety_00065_.png",
+            "Caption": "a silhouette of a young man sitting on the floor",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-66.png",
+            "Image Name": "Anxiety_00066_.png",
+            "Caption": "a woman sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-67.png",
+            "Image Name": "Anxiety_00067_.png",
+            "Caption": "a young man sitting on the floor with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-68.png",
+            "Image Name": "Anxiety_00068_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-69.png",
+            "Image Name": "Anxiety_00069_.png",
+            "Caption": "a woman is sitting on the floor with her hands covering her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-70.png",
+            "Image Name": "Anxiety_00070_.png",
+            "Caption": "a woman is holding her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-71.png",
+            "Image Name": "Anxiety_00071_.png",
+            "Caption": "a woman sitting on a white box with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-72.png",
+            "Image Name": "Anxiety_00072_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-73.png",
+            "Image Name": "Anxiety_00073_.png",
+            "Caption": "a woman covering her face with hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-74.png",
+            "Image Name": "Anxiety_00074_.png",
+            "Caption": "a woman covering her face with her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-75.png",
+            "Image Name": "Anxiety_00075_.png",
+            "Caption": "a woman is sitting on a couch with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-76.png",
+            "Image Name": "Anxiety_00076_.png",
+            "Caption": "a woman sitting on a bed with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-77.png",
+            "Image Name": "Anxiety_00077_.png",
+            "Caption": "a woman with her arms crossed looking down",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-78.png",
+            "Image Name": "Anxiety_00078_.png",
+            "Caption": "a man crouching down on the floor",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-79.png",
+            "Image Name": "Anxiety_00079_.png",
+            "Caption": "a man in a black shirt is sitting on a chair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-80.png",
+            "Image Name": "Anxiety_00080_.png",
+            "Caption": "a woman sitting on the floor with her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-81.png",
+            "Image Name": "Anxiety_00081_.png",
+            "Caption": "a man sitting in front of a window with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-82.png",
+            "Image Name": "Anxiety_00082_.png",
+            "Caption": "a woman is holding her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-83.png",
+            "Image Name": "Anxiety_00083_.png",
+            "Caption": "a woman is kneeling down with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-84.png",
+            "Image Name": "Anxiety_00084_.png",
+            "Caption": "a man covering his face with his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-85.png",
+            "Image Name": "Anxiety_00085_.png",
+            "Caption": "a man is sitting at a table with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-86.png",
+            "Image Name": "Anxiety_00086_.png",
+            "Caption": "a man in a hoodie sitting on the floor",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-87.png",
+            "Image Name": "Anxiety_00087_.png",
+            "Caption": "a woman covering her face with her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-88.png",
+            "Image Name": "Anxiety_00088_.png",
+            "Caption": "a man sitting on the floor with his hands on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-89.png",
+            "Image Name": "Anxiety_00089_.png",
+            "Caption": "a man in silhouette with his mouth open",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-90.png",
+            "Image Name": "Anxiety_00090_.png",
+            "Caption": "a woman sitting at a table with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985963/Anxiety-91.png",
+            "Image Name": "Anxiety_00091_.png",
+            "Caption": "a woman sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985964/Anxiety-91-2.png",
+            "Image Name": "Anxiety_00092_.png",
+            "Caption": "a young man sitting on the floor in front of a window",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985964/Anxiety-91-3.png",
+            "Image Name": "Anxiety_00093_.png",
+            "Caption": "a man sitting on the floor with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985964/Anxiety-91-4.png",
+            "Image Name": "Anxiety_00094_.png",
+            "Caption": "a woman sitting on the floor with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985965/Anxiety-91-5.png",
+            "Image Name": "Anxiety_00095_.png",
+            "Caption": "a woman sitting on the floor with her head in her hands",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985965/Anxiety-91-6.png",
+            "Image Name": "Anxiety_00096_.png",
+            "Caption": "a woman with dreadlocks covering her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985965/Anxiety-91-7.png",
+            "Image Name": "Anxiety_00097_.png",
+            "Caption": "a woman sitting on the floor with her hands on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985966/Anxiety-91-8.png",
+            "Image Name": "Anxiety_00098_.png",
+            "Caption": "a woman is sitting on the floor with her hands on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741985971/Anxiety-91-9.png",
+            "Image Name": "Anxiety_00099_.png",
+            "Caption": "a man sitting on a wall with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741983817/Anxiety_000-90.png",
+            "Image Name": "Anxiety_00100_.png",
+            "Caption": "a man sitting on a box with his head in his hands",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "hands",
+            "Total Occurrences": 81,
+            "Images Containing Word": 81,
+            "Percentage of Images": 81.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 73,
+            "Images Containing Word": 73,
+            "Percentage of Images": 73.0
+        },
+        {
+            "Word": "woman",
+            "Total Occurrences": 52,
+            "Images Containing Word": 52,
+            "Percentage of Images": 52.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 45,
+            "Images Containing Word": 45,
+            "Percentage of Images": 45.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 43,
+            "Images Containing Word": 43,
+            "Percentage of Images": 43.0
+        },
+        {
+            "Word": "floor",
+            "Total Occurrences": 41,
+            "Images Containing Word": 41,
+            "Percentage of Images": 41.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 40,
+            "Images Containing Word": 40,
+            "Percentage of Images": 40.0
+        },
+        {
+            "Word": "covering",
+            "Total Occurrences": 14,
+            "Images Containing Word": 14,
+            "Percentage of Images": 14.000000000000002
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "silhouette",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "chair",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "table",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "bench",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "window",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "couch",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "person",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "shadows",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "bed",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "box",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "crossed",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "wooden",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hill",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "looking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dreadlocks",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "open",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mouth",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hoodie",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "kneeling",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "crouching",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "arms",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "folded",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dark",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "room",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "legs",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "green",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "desk",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sad",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "young",
+            "Count": 7
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 52
+        },
+        {
+            "Word": "man",
+            "Count": 45
+        }
+    ]
+}

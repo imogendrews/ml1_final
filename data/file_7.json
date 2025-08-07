@@ -1,0 +1,1404 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-90.png",
+            "Image Name": "Germany_00090_.png",
+            "Caption": "a man in armor sitting on a ledge",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-91.png",
+            "Image Name": "Germany_00091_.png",
+            "Caption": "a woman with pink hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-92.png",
+            "Image Name": "Germany_00092_.png",
+            "Caption": "a woman with long hair standing in front of a black wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-93.png",
+            "Image Name": "Germany_00093_.png",
+            "Caption": "woman wearing a green scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-94.png",
+            "Image Name": "Germany_00094_.png",
+            "Caption": "a woman with short hair and a black shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-95.png",
+            "Image Name": "Germany_00095_.png",
+            "Caption": "a man wearing a top hat and a mustache",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-96.png",
+            "Image Name": "Germany_00096_.png",
+            "Caption": "a cartoon man with a red shirt and orange hair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-97.png",
+            "Image Name": "Germany_00097_.png",
+            "Caption": "a woman with a bun in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-98.png",
+            "Image Name": "Germany_00098_.png",
+            "Caption": "woman wearing a black beanie",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-99.png",
+            "Image Name": "Germany_00099_.png",
+            "Caption": "a man sitting on a ledge",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-100.png",
+            "Image Name": "Germany_00100_.png",
+            "Caption": "a woman with glasses and a red and white striped shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German.png",
+            "Image Name": "German_000001_.png",
+            "Caption": "a girl with short hair and an orange sweater is looking out over a city",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-2.png",
+            "Image Name": "German_00002_.png",
+            "Caption": "a woman wearing a scarf and a headband",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-3.png",
+            "Image Name": "German_00003_.png",
+            "Caption": "a woman wearing a hat in front of a newspaper",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-4.png",
+            "Image Name": "Germany_00004_.png",
+            "Caption": "a man wearing glasses and a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-5.png",
+            "Image Name": "Germany_00005_.png",
+            "Caption": "angela merkel, german chancellor",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-6.png",
+            "Image Name": "Germany_00006_.png",
+            "Caption": "a woman wearing glasses and a black sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-7.png",
+            "Image Name": "Germany_00007_.png",
+            "Caption": "a man wearing a red jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-8.png",
+            "Image Name": "Germany_00008_.png",
+            "Caption": "a man with a white shirt and a black jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-9.png",
+            "Image Name": "Germany_00009_.png",
+            "Caption": "a man with white hair and a black jacket walking down a street",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-10.png",
+            "Image Name": "Germany_000010_.png",
+            "Caption": "angela merkel, chancellor of germany",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-11.png",
+            "Image Name": "Germany_00011_.png",
+            "Caption": "a woman with red hair wearing a yellow headband",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-12.png",
+            "Image Name": "Germany_00012_.png",
+            "Caption": "a man in a suit with a german flag painted on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-13.png",
+            "Image Name": "Germany_00013_.png",
+            "Caption": "a woman with red hair and a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-14.png",
+            "Image Name": "Germany_00014_.png",
+            "Caption": "a cartoon man with glasses and a beard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-15.png",
+            "Image Name": "Germany_00015_.png",
+            "Caption": "a woman with white hair and a backpack in a field",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-16.png",
+            "Image Name": "Germany_00016_.png",
+            "Caption": "a man in a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-17.png",
+            "Image Name": "Germany_00017_.png",
+            "Caption": "a woman in armor sitting on a red couch",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-18.png",
+            "Image Name": "Germany_00018_.png",
+            "Caption": "a man wearing glasses and a hoodie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-19.png",
+            "Image Name": "Germany_00019_.png",
+            "Caption": "a man with a backpack",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-20.png",
+            "Image Name": "Germany_00020_.png",
+            "Caption": "a woman wearing a hat and a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-21.png",
+            "Image Name": "Germany_00021_.png",
+            "Caption": "a woman wearing a green jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-22.png",
+            "Image Name": "Germany_00022_.png",
+            "Caption": "a woman with blonde hair and a black jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-23.png",
+            "Image Name": "Germany_00023_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-24.png",
+            "Image Name": "Germany_00024_.png",
+            "Caption": "a man and a woman standing next to each other",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-25.png",
+            "Image Name": "Germany_00025_.png",
+            "Caption": "a woman wearing a scarf and goggles in the snow",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-26.png",
+            "Image Name": "Germany_00026_.png",
+            "Caption": "a young boy wearing glasses and a mask with the flag of spain",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young, boy"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-27.png",
+            "Image Name": "Germany_00027_.png",
+            "Caption": "a man wearing a camo shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-28.png",
+            "Image Name": "Germany_00028_.png",
+            "Caption": "a man in overalls standing in front of a white background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-29.png",
+            "Image Name": "Germany_00029_.png",
+            "Caption": "a woman wearing glasses and a red checkered shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-30.png",
+            "Image Name": "Germany_00030_.png",
+            "Caption": "a man wearing a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-31.png",
+            "Image Name": "Germany_00031_.png",
+            "Caption": "a woman with a ponytail",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-32.png",
+            "Image Name": "Germany_00032_.png",
+            "Caption": "a man in a black suit and sunglasses standing in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-33.png",
+            "Image Name": "Germany_00033_.png",
+            "Caption": "a woman wearing a black suit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-34.png",
+            "Image Name": "Germany_00034_.png",
+            "Caption": "a darth vader costume with a german flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-35.png",
+            "Image Name": "Germany_00035_.png",
+            "Caption": "a man with a yellow bandana over his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-36.png",
+            "Image Name": "Germany_00036_.png",
+            "Caption": "a woman with a german flag covering her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-37.png",
+            "Image Name": "Germany_00037_.png",
+            "Caption": "a girl wearing a hat and plaid jacket in front of a castle",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-38.png",
+            "Image Name": "Germany_00038_.png",
+            "Caption": "a woman sitting at a desk with a pen and pencils",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-39.png",
+            "Image Name": "Germany_00039_.png",
+            "Caption": "a woman with a ponytail and a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-40.png",
+            "Image Name": "Germany_00040_.png",
+            "Caption": "a woman wearing a yellow sweatshirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-41.png",
+            "Image Name": "Germany_00041_.png",
+            "Caption": "german chancellor angela merkel",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-42.png",
+            "Image Name": "Germany_00042_.png",
+            "Caption": "a woman wearing a helmet",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-43.png",
+            "Image Name": "Germany_00043_.png",
+            "Caption": "a woman in a white shirt posing for the camera",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-44.png",
+            "Image Name": "Germany_00044_.png",
+            "Caption": "a woman with glasses on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-45.png",
+            "Image Name": "Germany_00045_.png",
+            "Caption": "a woman in camouflage gear standing in front of a military plane",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-46.png",
+            "Image Name": "Germany_00046_.png",
+            "Caption": "a woman with a long braid",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-47.png",
+            "Image Name": "Germany_00047_.png",
+            "Caption": "a man wearing a gold headpiece",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-48.png",
+            "Image Name": "Germany_00048_.png",
+            "Caption": "a man with a red coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-49.png",
+            "Image Name": "Germany_00049_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-50.png",
+            "Image Name": "Germany_00050_.png",
+            "Caption": "a woman with short hair and a white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-51.png",
+            "Image Name": "Germany_00051_.png",
+            "Caption": "a man with a fake head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-52.png",
+            "Image Name": "Germany_00052_.png",
+            "Caption": "a man wearing a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-53.png",
+            "Image Name": "Germany_00053_.png",
+            "Caption": "a woman wearing a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-54.png",
+            "Image Name": "Germany_00054_.png",
+            "Caption": "a man in a black hoodie and mask",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-55.png",
+            "Image Name": "Germany_00055_.png",
+            "Caption": "a man holding a sign that reads german a german person mending of aller",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-56.png",
+            "Image Name": "Germany_00056_.png",
+            "Caption": "a man with a beard and a helmet",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-57.png",
+            "Image Name": "Germany_00057_.png",
+            "Caption": "a woman with a white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-58.png",
+            "Image Name": "Germany_00058_.png",
+            "Caption": "a woman with a yellow and black backpack",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-59.png",
+            "Image Name": "Germany_00059_.png",
+            "Caption": "a woman wearing a yellow shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-60.png",
+            "Image Name": "Germany_00060_.png",
+            "Caption": "a woman wearing a black hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-61.png",
+            "Image Name": "Germany_00061_.png",
+            "Caption": "a man in a military uniform and hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-62.png",
+            "Image Name": "Germany_00062_.png",
+            "Caption": "man wearing a top hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-63.png",
+            "Image Name": "Germany_00063_.png",
+            "Caption": "a man wearing a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-64.png",
+            "Image Name": "Germany_00064_.png",
+            "Caption": "a woman with short hair and a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-65.png",
+            "Image Name": "Germany_00065_.png",
+            "Caption": "a man dressed in armor",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-66.png",
+            "Image Name": "Germany_00066_.png",
+            "Caption": "man wearing a green hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-67.png",
+            "Image Name": "Germany_00067_.png",
+            "Caption": "a man with a surprised look on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-68.png",
+            "Image Name": "Germany_00068_.png",
+            "Caption": "a man wearing glasses and a tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-69.png",
+            "Image Name": "Germany_00069_.png",
+            "Caption": "a woman wearing glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-70.png",
+            "Image Name": "Germany_00070_.png",
+            "Caption": "a man wearing a helmet",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-71.png",
+            "Image Name": "Germany_00071_.png",
+            "Caption": "a lego woman wearing a yellow hat and a white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-72.png",
+            "Image Name": "Germany_00072_.png",
+            "Caption": "a woman wearing a headband and a dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-73.png",
+            "Image Name": "Germany_00073_.png",
+            "Caption": "a woman wearing glasses and a red shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-74.png",
+            "Image Name": "Germany_00074_.png",
+            "Caption": "a woman wearing a black dress and orange bow",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-75.png",
+            "Image Name": "Germany_00075_.png",
+            "Caption": "a woman standing in front of a white building",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-76.png",
+            "Image Name": "Germany_00076_.png",
+            "Caption": "a woman wearing a yellow hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-77.png",
+            "Image Name": "Germany_00077_.png",
+            "Caption": "a woman wearing a black and white jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-78.png",
+            "Image Name": "Germany_00078_.png",
+            "Caption": "a man with glasses and a tie in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-79.png",
+            "Image Name": "Germany_00079_.png",
+            "Caption": "a woman with brown hair and a white sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-80.png",
+            "Image Name": "Germany_00080_.png",
+            "Caption": "a man wearing a suit with patches on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-81.png",
+            "Image Name": "Germany_00081_.png",
+            "Caption": "a woman with orange hair and a black jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-82.png",
+            "Image Name": "Germany_00082_.png",
+            "Caption": "a cartoon of a woman with black hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-83.png",
+            "Image Name": "Germany_00083_.png",
+            "Caption": "a man in a field",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-84.png",
+            "Image Name": "Germany_00084_.png",
+            "Caption": "a man with a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-85.png",
+            "Image Name": "Germany_00085_.png",
+            "Caption": "a woman with red hair and a white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-86.png",
+            "Image Name": "Germany_00086_.png",
+            "Caption": "a woman wearing a hooded jacket and sunglasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-87.png",
+            "Image Name": "Germany_00087_.png",
+            "Caption": "a woman with short blonde hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-88.png",
+            "Image Name": "Germany_00088_.png",
+            "Caption": "a woman in a red plaid coat standing in front of a church",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742070368/German-89.png",
+            "Image Name": "Germany_00089_.png",
+            "Caption": "a woman in a striped sweater with a black and white collar",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 54,
+            "Images Containing Word": 54,
+            "Percentage of Images": 54.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 42,
+            "Images Containing Word": 42,
+            "Percentage of Images": 42.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 40,
+            "Images Containing Word": 40,
+            "Percentage of Images": 40.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 21,
+            "Images Containing Word": 21,
+            "Percentage of Images": 21.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 18,
+            "Images Containing Word": 18,
+            "Percentage of Images": 18.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 16,
+            "Images Containing Word": 16,
+            "Percentage of Images": 16.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 15,
+            "Images Containing Word": 15,
+            "Percentage of Images": 15.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "german",
+            "Total Occurrences": 7,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "short",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "orange",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "backpack",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "building",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "chancellor",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "armor",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "headband",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "angela",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "cartoon",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "green",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "helmet",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "blonde",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hoodie",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "ponytail",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "long",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "field",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "plaid",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "military",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "ledge",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "merkel,",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "striped",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "posing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "plane",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gear",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "camera",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fake",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "braid",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gold",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "headpiece",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "camouflage",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hooded",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sweatshirt",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "patches",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "church",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "brown",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "lego",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "look",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "surprised",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sign",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dressed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "uniform",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "aller",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mending",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "person",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "reads",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "merkel",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "goggles",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pencils",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pen",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pink",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mustache",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bun",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "beanie",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "looking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "city",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "newspaper",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "walking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "street",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "germany",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "painted",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "couch",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "next",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "snow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "boy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "spain",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "camo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "overalls",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "checkered",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "darth",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "vader",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "costume",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bandana",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "covering",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "castle",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "desk",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "collar",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "girl",
+            "Count": 2
+        },
+        {
+            "Word": "boy",
+            "Count": 1
+        },
+        {
+            "Word": "young",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 54
+        },
+        {
+            "Word": "man",
+            "Count": 40
+        },
+        {
+            "Word": "girl",
+            "Count": 2
+        },
+        {
+            "Word": "boy",
+            "Count": 1
+        }
+    ]
+}

@@ -1,0 +1,1309 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-100.png",
+            "Image Name": "American_00100_.png",
+            "Caption": "a close up of the president of the united states",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067118/American.png",
+            "Image Name": "American_00001_.png",
+            "Caption": "a painting of a man wearing a hat and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-2.png",
+            "Image Name": "American_00002_.png",
+            "Caption": "a man in a suit standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-3.png",
+            "Image Name": "American_00003_.png",
+            "Caption": "a painting of a man holding two american flags",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-4.png",
+            "Image Name": "American_00004_.png",
+            "Caption": "a man standing next to a statue of donald trump",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-5.png",
+            "Image Name": "American_00005_.png",
+            "Caption": "a painting of people standing in front of an american flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-6.png",
+            "Image Name": "American_00006_.png",
+            "Caption": "a man in a suit holding an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-7.png",
+            "Image Name": "American_00007_.png",
+            "Caption": "a silhouette of a man standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-8.png",
+            "Image Name": "American_00008_.png",
+            "Caption": "a man with a beard and glasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-9.png",
+            "Image Name": "American_00009_.png",
+            "Caption": "a man in a suit and hat with an american flag in the background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-10.png",
+            "Image Name": "American_00010_.png",
+            "Caption": "a man in a suit holding a sign that says trump",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-11.png",
+            "Image Name": "American_00011_.png",
+            "Caption": "a silhouette of two men in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-12.png",
+            "Image Name": "American_00012_.png",
+            "Caption": "a painted wall with two men standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-13.png",
+            "Image Name": "American_00013_.png",
+            "Caption": "a silhouette of a man in a suit standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-14.png",
+            "Image Name": "American_00014_.png",
+            "Caption": "a man in a suit and sunglasses with an american flag background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-15.png",
+            "Image Name": "American_00015_.png",
+            "Caption": "a man stands in front of a large american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-16.png",
+            "Image Name": "American_00016_.png",
+            "Caption": "a silhouette of a man standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-17.png",
+            "Image Name": "American_00017_.png",
+            "Caption": "a painting of a man with glasses and an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-18.png",
+            "Image Name": "American_00018_.png",
+            "Caption": "a man with a face painted in the colors of the usa flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-19.png",
+            "Image Name": "American_00019_.png",
+            "Caption": "a silhouette of a man in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-20.png",
+            "Image Name": "American_00020_.png",
+            "Caption": "a man in a suit stands in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-21.png",
+            "Image Name": "American_00021_.png",
+            "Caption": "a man wearing a mask and sunglasses stands in front of a wall with an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-22.png",
+            "Image Name": "American_00022_.png",
+            "Caption": "a man wearing a hat with a trump face on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-23.png",
+            "Image Name": "American_00023_.png",
+            "Caption": "a man in a suit and tie stands in front of a city",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-24.png",
+            "Image Name": "American_00024_.png",
+            "Caption": "a silhouette of a woman with an american flag on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-25.png",
+            "Image Name": "American_00025_.png",
+            "Caption": "a painting of a man wearing a mask and hat with an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-26.png",
+            "Image Name": "American_00026_.png",
+            "Caption": "a man with purple hair standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-27.png",
+            "Image Name": "American_00027_.png",
+            "Caption": "a wooden figure of a man wearing an american flag shirt and hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-28.png",
+            "Image Name": "American_00028_.png",
+            "Caption": "donald trump, 'america', 2016, oil on canvas, 48 x 48 inches",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741943584/American-29.png",
+            "Image Name": "American_00029_.png",
+            "Caption": "a man with a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-30.png",
+            "Image Name": "American_00030_.png",
+            "Caption": "a silhouette of a woman standing in front of an american flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-31.png",
+            "Image Name": "American_00031_.png",
+            "Caption": "a silhouette of a man sitting in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-32.png",
+            "Image Name": "American_00032_.png",
+            "Caption": "a woman wearing a mask and sitting in front of an american flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-33.png",
+            "Image Name": "American_00033_.png",
+            "Caption": "a portrait of donald trump wearing a red hat and a red suit",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-34.png",
+            "Image Name": "American_00034_.png",
+            "Caption": "a man standing in front of a large american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-35.png",
+            "Image Name": "American_00035_.png",
+            "Caption": "donald trump, president of the united states",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-36.png",
+            "Image Name": "American_00036_.png",
+            "Caption": "a woman in a blue suit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-37.png",
+            "Image Name": "American_00037_.png",
+            "Caption": "double exposure of the american flag on the face of a man",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-38.png",
+            "Image Name": "American_00038_.png",
+            "Caption": "a man wearing sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-39.png",
+            "Image Name": "American_00039_.png",
+            "Caption": "a man standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-40.png",
+            "Image Name": "American_00040_.png",
+            "Caption": "a woman wearing a hat and a white t-shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-41.png",
+            "Image Name": "American_00041_.png",
+            "Caption": "a man standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-42.png",
+            "Image Name": "American_00042_.png",
+            "Caption": "captain america by joshua klein",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-43.png",
+            "Image Name": "American_00043_.png",
+            "Caption": "a close up of the president of the united states",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-44.png",
+            "Image Name": "American_00044_.png",
+            "Caption": "a statue of a man with a american flag in the background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-45.png",
+            "Image Name": "American_00045_.png",
+            "Caption": "a man sitting on a wall with an american flag painted on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-46.png",
+            "Image Name": "American_00046_.png",
+            "Caption": "a man wearing a hat with an american flag on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-47.png",
+            "Image Name": "American_00047_.png",
+            "Caption": "a silhouette of a man standing in front of a map of the united states",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-48.png",
+            "Image Name": "American_00048_.png",
+            "Caption": "a man sitting in front of a window",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-49.png",
+            "Image Name": "American_00049_.png",
+            "Caption": "a silhouette of a man sitting in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-50.png",
+            "Image Name": "American_00050_.png",
+            "Caption": "a man holding an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-51.png",
+            "Image Name": "American_00051_.png",
+            "Caption": "a man wearing a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-52.png",
+            "Image Name": "American_00052_.png",
+            "Caption": "donald trump, new york city, new york, usa, 2016",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-53.png",
+            "Image Name": "American_00053_.png",
+            "Caption": "a portrait of donald trump in a suit and tie",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-54.png",
+            "Image Name": "American_00054_.png",
+            "Caption": "donald trump, 'the american president', 2016, oil on canvas, 48 x 48 inches",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-55.png",
+            "Image Name": "American_00055_.png",
+            "Caption": "a painting of donald trump",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-56.png",
+            "Image Name": "American_00056_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-57.png",
+            "Image Name": "American_00057_.png",
+            "Caption": "a man wearing a red face mask and glasses in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-58.png",
+            "Image Name": "American_00058_.png",
+            "Caption": "a man holding an american flag in silhouette",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-59.png",
+            "Image Name": "American_00059_.png",
+            "Caption": "a man in a suit and hat standing in front of a white background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-60.png",
+            "Image Name": "American_00060_.png",
+            "Caption": "a man in a suit standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-61.png",
+            "Image Name": "American_00061_.png",
+            "Caption": "a man in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-62.png",
+            "Image Name": "American_00062_.png",
+            "Caption": "a man is looking up at the american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-63.png",
+            "Image Name": "American_00063_.png",
+            "Caption": "a painting of a man standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-64.png",
+            "Image Name": "American_00064_.png",
+            "Caption": "a man in a suit stands in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-65.png",
+            "Image Name": "American_00065_.png",
+            "Caption": "a man sitting in front of a wall with an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-66.png",
+            "Image Name": "American_00066_.png",
+            "Caption": "a man in a suit and tie standing in front of a flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-67.png",
+            "Image Name": "American_00067_.png",
+            "Caption": "a man standing in front of a red wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-68.png",
+            "Image Name": "American_00068_.png",
+            "Caption": "a painting of a man in a cowboy hat standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-69.png",
+            "Image Name": "American_00069_.png",
+            "Caption": "a woman in front of an american flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-70.png",
+            "Image Name": "American_00070_.png",
+            "Caption": "a painting of donald trump sitting in a chair",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-71.png",
+            "Image Name": "American_00071_.png",
+            "Caption": "a man in a suit and tie standing in front of a blue sky",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-72.png",
+            "Image Name": "American_00072_.png",
+            "Caption": "digital art - donald trump by james kennedy on 500px",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-73.png",
+            "Image Name": "American_00073_.png",
+            "Caption": "a man with a red, white and blue background and a trump sign",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-74.png",
+            "Image Name": "American_00074_.png",
+            "Caption": "a statue of a man in a suit and tie sitting in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-75.png",
+            "Image Name": "American_00075_.png",
+            "Caption": "a man in a suit stands in front of a large american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-76.png",
+            "Image Name": "American_00076_.png",
+            "Caption": "a silhouette of a man in a suit and tie in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-77.png",
+            "Image Name": "American_00077_.png",
+            "Caption": "a silhouette of a man in a hat and suit standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-78.png",
+            "Image Name": "American_00078_.png",
+            "Caption": "a painting of a man wearing sunglasses and a red tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-79.png",
+            "Image Name": "American_00079_.png",
+            "Caption": "donald trump's back view of the crowd at the inauguration",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1741943595/American-80.png",
+            "Image Name": "American_00080_.png",
+            "Caption": "a painting of president donald trump with an american flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-81.png",
+            "Image Name": "American_00081_.png",
+            "Caption": "trump in the background of an american flag",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-82.png",
+            "Image Name": "American_00082_.png",
+            "Caption": "a man stands in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-83.png",
+            "Image Name": "American_00083_.png",
+            "Caption": "a silhouette of a man sitting in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-84.png",
+            "Image Name": "American_00084_.png",
+            "Caption": "a man standing in front of a wall with a flag painted on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-85.png",
+            "Image Name": "American_00085_.png",
+            "Caption": "a man holding an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-86.png",
+            "Image Name": "American_00086_.png",
+            "Caption": "a man wearing a suit and a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-87.png",
+            "Image Name": "American_00087_.png",
+            "Caption": "a man standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-88.png",
+            "Image Name": "American_00088_.png",
+            "Caption": "a man with a black suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-89.png",
+            "Image Name": "American_00089_.png",
+            "Caption": "a man standing in front of a large american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-90.png",
+            "Image Name": "American_00090_.png",
+            "Caption": "a person wearing a red hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-91.png",
+            "Image Name": "American_00091_.png",
+            "Caption": "a close up of the back of a man in a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-92.png",
+            "Image Name": "American_00092_.png",
+            "Caption": "a man in a suit is standing in front of an american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-93.png",
+            "Image Name": "American_00093_.png",
+            "Caption": "a person with a backpack standing in front of a wall with an american flag painted on it",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-94.png",
+            "Image Name": "American_00094_.png",
+            "Caption": "a man in a hat and coat standing in front of a wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-95.png",
+            "Image Name": "American_00095_.png",
+            "Caption": "a silhouette of a man with a flag in front of a city",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-96.png",
+            "Image Name": "American_00096_.png",
+            "Caption": "a man with an american flag on his face",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-97.png",
+            "Image Name": "American_00097_.png",
+            "Caption": "a man standing in front of a large american flag",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-98.png",
+            "Image Name": "American_00098_.png",
+            "Caption": "a batman costume",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067117/American-99.png",
+            "Image Name": "American_00099_.png",
+            "Caption": "a man wearing an american flag shirt and hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "man",
+            "Total Occurrences": 73,
+            "Images Containing Word": 73,
+            "Percentage of Images": 73.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 61,
+            "Images Containing Word": 61,
+            "Percentage of Images": 61.0
+        },
+        {
+            "Word": "american",
+            "Total Occurrences": 59,
+            "Images Containing Word": 59,
+            "Percentage of Images": 59.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 48,
+            "Images Containing Word": 48,
+            "Percentage of Images": 48.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 28,
+            "Images Containing Word": 28,
+            "Percentage of Images": 28.000000000000004
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 26,
+            "Images Containing Word": 26,
+            "Percentage of Images": 26.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 17,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 16,
+            "Images Containing Word": 16,
+            "Percentage of Images": 16.0
+        },
+        {
+            "Word": "silhouette",
+            "Total Occurrences": 15,
+            "Images Containing Word": 15,
+            "Percentage of Images": 15.0
+        },
+        {
+            "Word": "donald",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "trump",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "stands",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "woman",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "painted",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "large",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 6,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "president",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "trump,",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "united",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "states",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "close",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "statue",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "two",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "48",
+            "Total Occurrences": 4,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "2016,",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "canvas,",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "portrait",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "person",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "inches",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "back",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "x",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "oil",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "city",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "men",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sign",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "figure",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "500px",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "president',",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "looking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cowboy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "chair",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sky",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "digital",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "art",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "-",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "james",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "kennedy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "trump's",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "red,",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "2016",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "next",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "view",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "crowd",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "inauguration",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "flags",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "backpack",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "batman",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "'the",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "york,",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "usa,",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wooden",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "'america',",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "purple",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "usa",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "colors",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "says",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "double",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "exposure",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "people",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "t-shirt",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "captain",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "america",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "joshua",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "klein",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "map",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "window",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "new",
+            "Total Occurrences": 2,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "york",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "city,",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "costume",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [],
+    "gender_related_words": [
+        {
+            "Word": "man",
+            "Count": 73
+        },
+        {
+            "Word": "woman",
+            "Count": 6
+        },
+        {
+            "Word": "men",
+            "Count": 2
+        }
+    ]
+}

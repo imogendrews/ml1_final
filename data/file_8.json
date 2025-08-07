@@ -1,0 +1,1218 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071302/Italian.png",
+            "Image Name": "Italian_00001_.png",
+            "Caption": "a woman in blue dress with a white head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-2.png",
+            "Image Name": "Italian_00002_.png",
+            "Caption": "a man with a mustache and a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-3.png",
+            "Image Name": "Italian_00003_.png",
+            "Caption": "a man in a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-4.png",
+            "Image Name": "Italian_00004_.png",
+            "Caption": "a man sitting on a bench",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-5.png",
+            "Image Name": "Italian_00005_.png",
+            "Caption": "a man holding a basket of tomatoes",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-6.png",
+            "Image Name": "Italian_00006_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-7.png",
+            "Image Name": "Italian_00007_.png",
+            "Caption": "a man with a hat on",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-8.png",
+            "Image Name": "Italian_00008_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-9.png",
+            "Image Name": "Italian_00009_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-10.png",
+            "Image Name": "Italian_00010_.png",
+            "Caption": "a man with a green turban on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-11.png",
+            "Image Name": "Italian_00011_.png",
+            "Caption": "a woman wearing a hat and a white dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-12.png",
+            "Image Name": "Italian_00012_.png",
+            "Caption": "a man wearing a green hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-13.png",
+            "Image Name": "Italian_00013_.png",
+            "Caption": "a woman wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-14.png",
+            "Image Name": "Italian_00014_.png",
+            "Caption": "a man with a hat and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-15.png",
+            "Image Name": "Italian_00015_.png",
+            "Caption": "a man wearing a clown mask",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-16.png",
+            "Image Name": "Italian_00016_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-17.png",
+            "Image Name": "Italian_00017_.png",
+            "Caption": "man wearing a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-18.png",
+            "Image Name": "Italian_00018_.png",
+            "Caption": "a man in a hat and straw hat is holding a glass of wine",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-19.png",
+            "Image Name": "Italian_00019_.png",
+            "Caption": "a man with curly hair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-20.png",
+            "Image Name": "Italian_00020_.png",
+            "Caption": "a man wearing a hat with vegetables on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-21.png",
+            "Image Name": "Italian_00021_.png",
+            "Caption": "a woman in red and green jacket and sunglasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-22.png",
+            "Image Name": "Italian_00022_.png",
+            "Caption": "a man wearing a turban smiles for the camera",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-23.png",
+            "Image Name": "Italian_00023_.png",
+            "Caption": "a woman with green and red painted on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-24.png",
+            "Image Name": "Italian_00024_.png",
+            "Caption": "man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-25.png",
+            "Image Name": "Italian_00025_.png",
+            "Caption": "a man in a red hat and red coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-26.png",
+            "Image Name": "Italian_00026_.png",
+            "Caption": "a man wearing a green scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-27.png",
+            "Image Name": "Italian_00027_.png",
+            "Caption": "a man in a white shirt and red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-28.png",
+            "Image Name": "Italian_00028_.png",
+            "Caption": "a man with a beard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-29.png",
+            "Image Name": "Italian_00029_.png",
+            "Caption": "a woman wearing a shirt with a picture of italy",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-30.png",
+            "Image Name": "Italian_00030_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-31.png",
+            "Image Name": "Italian_00031_.png",
+            "Caption": "a man wearing a hat and a green and white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-32.png",
+            "Image Name": "Italian_00032_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-33.png",
+            "Image Name": "Italian_00033_.png",
+            "Caption": "a man wearing a hat and scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-34.png",
+            "Image Name": "Italian_00034_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-35.png",
+            "Image Name": "Italian_00035_.png",
+            "Caption": "a man wearing a headdress and a scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-36.png",
+            "Image Name": "Italian_00036_.png",
+            "Caption": "a man in a pirate hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-37.png",
+            "Image Name": "Italian_00037_.png",
+            "Caption": "a woman with a face painted with the colors of the italian flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-38.png",
+            "Image Name": "Italian_00038_.png",
+            "Caption": "a painting of a man with a mustache and a red coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-39.png",
+            "Image Name": "Italian_00039_.png",
+            "Caption": "a man wearing a hat and scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-40.png",
+            "Image Name": "Italian_00040_.png",
+            "Caption": "a cartoon man with a mustache and green scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-41.png",
+            "Image Name": "Italian_00041_.png",
+            "Caption": "a woman in a black and white dress and white hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-42.png",
+            "Image Name": "Italian_00042_.png",
+            "Caption": "a woman in a red shirt and black pants leaning against a wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-43.png",
+            "Image Name": "Italian_00043_.png",
+            "Caption": "a woman in a green and white dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-44.png",
+            "Image Name": "Italian_00044_.png",
+            "Caption": "a man wearing a hat with vegetables on it",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-45.png",
+            "Image Name": "Italian_00045_.png",
+            "Caption": "a painting of a woman wearing a red and green hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-46.png",
+            "Image Name": "Italian_00046_.png",
+            "Caption": "a man in a red hat and black jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-47.png",
+            "Image Name": "Italian_00047_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-48.png",
+            "Image Name": "Italian_00048_.png",
+            "Caption": "a man with a beard and glasses wearing a santa hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-49.png",
+            "Image Name": "Italian_00049_.png",
+            "Caption": "man wearing a black hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-50.png",
+            "Image Name": "Italian_00050_.png",
+            "Caption": "a man wearing a black hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-51.png",
+            "Image Name": "Italian_00051_.png",
+            "Caption": "a woman with a clown face and a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-52.png",
+            "Image Name": "Italian_00052_.png",
+            "Caption": "a man dressed in a costume",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-53.png",
+            "Image Name": "Italian_00053_.png",
+            "Caption": "a man wearing sunglasses and a red and green sweater",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-54.png",
+            "Image Name": "Italian_00054_.png",
+            "Caption": "a man sitting on a step with his hands in his pockets",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-55.png",
+            "Image Name": "Italian_00055_.png",
+            "Caption": "a man wearing a turban",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-56.png",
+            "Image Name": "Italian_00056_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-57.png",
+            "Image Name": "Italian_00057_.png",
+            "Caption": "a woman in a traditional costume smiles for the camera",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-58.png",
+            "Image Name": "Italian_00058_.png",
+            "Caption": "a man with a moustache",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-59.png",
+            "Image Name": "Italian_00059_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-60.png",
+            "Image Name": "Italian_00060_.png",
+            "Caption": "a painting of a man in a top hat and coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-61.png",
+            "Image Name": "Italian_00061_.png",
+            "Caption": "a woman wearing a green and red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-62.png",
+            "Image Name": "Italian_00062_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-63.png",
+            "Image Name": "Italian_00063_.png",
+            "Caption": "a woman in a green dress and hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-64.png",
+            "Image Name": "Italian_00064_.png",
+            "Caption": "a woman in a red and white dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-65.png",
+            "Image Name": "Italian_00065_.png",
+            "Caption": "a woman wearing a black hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-66.png",
+            "Image Name": "Italian_00066_.png",
+            "Caption": "a man wearing a hat and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-67.png",
+            "Image Name": "Italian_00067_.png",
+            "Caption": "man wearing a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-68.png",
+            "Image Name": "Italian_00068_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-69.png",
+            "Image Name": "Italian_00069_.png",
+            "Caption": "a painting of a man wearing a hat and a plaid shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-70.png",
+            "Image Name": "Italian_00070_.png",
+            "Caption": "a man with a hat on and a white t - shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-71.png",
+            "Image Name": "Italian_00071_.png",
+            "Caption": "a woman wearing a red dress and green hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-72.png",
+            "Image Name": "Italian_00072_.png",
+            "Caption": "a man in a hat and pink pants standing on a street",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-73.png",
+            "Image Name": "Italian_00073_.png",
+            "Caption": "a silhouette of a boy in a red shirt and green pants",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "boy"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-74.png",
+            "Image Name": "Italian_00074_.png",
+            "Caption": "a man wearing a hat and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-75.png",
+            "Image Name": "Italian_00075_.png",
+            "Caption": "a man in a white apron",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-76.png",
+            "Image Name": "Italian_00076_.png",
+            "Caption": "a man with a large mustache and a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-77.png",
+            "Image Name": "Italian_00077_.png",
+            "Caption": "man wearing a green hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-78.png",
+            "Image Name": "Italian_00078_.png",
+            "Caption": "a man in a chef's uniform standing in front of a tree",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-79.png",
+            "Image Name": "Italian_00079_.png",
+            "Caption": "a man wearing a hat and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-80.png",
+            "Image Name": "Italian_00080_.png",
+            "Caption": "man wearing a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-81.png",
+            "Image Name": "Italian_00081_.png",
+            "Caption": "a man wearing a hat and sunglasses",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-82.png",
+            "Image Name": "Italian_00082_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-83.png",
+            "Image Name": "Italian_00083_.png",
+            "Caption": "a painting of a man in a green dress",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-84.png",
+            "Image Name": "Italian_00084_.png",
+            "Caption": "a man with a backpack walking through a city",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-85.png",
+            "Image Name": "Italian_00085_.png",
+            "Caption": "a painting of a man in a red hat and white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-86.png",
+            "Image Name": "Italian_00086_.png",
+            "Caption": "a woman dressed in a costume with a large hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-87.png",
+            "Image Name": "Italian_00087_.png",
+            "Caption": "a man wearing a hat and coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-88.png",
+            "Image Name": "Italian_00088_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-89.png",
+            "Image Name": "Italian_00089_.png",
+            "Caption": "a man in a suit and hat sitting on a ledge overlooking a city",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-90.png",
+            "Image Name": "Italian_00090_.png",
+            "Caption": "a woman wearing a turban and sunglasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-91.png",
+            "Image Name": "Italian_00091_.png",
+            "Caption": "a painting of a man with glasses and a black coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-92.png",
+            "Image Name": "Italian_00092_.png",
+            "Caption": "a man in a uniform with a hat on",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-93.png",
+            "Image Name": "Italian_00093_.png",
+            "Caption": "man wearing a black coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-94.png",
+            "Image Name": "Italian_00094_.png",
+            "Caption": "a man wearing a black coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-95.png",
+            "Image Name": "Italian_00095_.png",
+            "Caption": "a woman in a costume",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-96.png",
+            "Image Name": "Italian_00096_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-97.png",
+            "Image Name": "Italian_00097_.png",
+            "Caption": "a woman wearing a hat and holding an apple",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-98.png",
+            "Image Name": "Italian_00098_.png",
+            "Caption": "a man with a green hair and a shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-99.png",
+            "Image Name": "Italian_00099_.png",
+            "Caption": "a man with a painted face and hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742071157/Italian%20-100.png",
+            "Image Name": "Italian_00100_.png",
+            "Caption": "a man in a suit and red shoes standing on a white background",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "man",
+            "Total Occurrences": 75,
+            "Images Containing Word": 75,
+            "Percentage of Images": 75.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 60,
+            "Images Containing Word": 59,
+            "Percentage of Images": 59.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 52,
+            "Images Containing Word": 52,
+            "Percentage of Images": 52.0
+        },
+        {
+            "Word": "woman",
+            "Total Occurrences": 24,
+            "Images Containing Word": 24,
+            "Percentage of Images": 24.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 20,
+            "Images Containing Word": 19,
+            "Percentage of Images": 19.0
+        },
+        {
+            "Word": "green",
+            "Total Occurrences": 17,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 15,
+            "Images Containing Word": 14,
+            "Percentage of Images": 14.000000000000002
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "costume",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "turban",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "mustache",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "pants",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "painted",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "smiles",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "dressed",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "large",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "uniform",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "camera",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "vegetables",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "clown",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "city",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "backpack",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "chef's",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "moustache",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pockets",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "shoes",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "plaid",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "apple",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "-",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pink",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "overlooking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "ledge",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "tree",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "street",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "silhouette",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "boy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "apron",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "walking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "traditional",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "colors",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hands",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "step",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bench",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "basket",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "tomatoes",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "straw",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "glass",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wine",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "curly",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "picture",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "italy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "headdress",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pirate",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "italian",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cartoon",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "leaning",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "santa",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "boy",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "man",
+            "Count": 75
+        },
+        {
+            "Word": "woman",
+            "Count": 24
+        },
+        {
+            "Word": "boy",
+            "Count": 1
+        }
+    ]
+}

@@ -1,0 +1,1154 @@
+{
+    "image_captions": [
+        {
+            "Image": "/sa_person/SA_Person_00100_.png",
+            "Image Name": "SA_Person_00100_.png",
+            "Caption": "a beautiful young woman in an african dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00001_.png",
+            "Image Name": "SA_Person_00001_.png",
+            "Caption": "a woman wearing a colorful head scarf and glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00002_.png",
+            "Image Name": "SA_Person_00002_.png",
+            "Caption": "a woman wearing sunglasses and a headband",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00003_.png",
+            "Image Name": "SA_Person_00003_.png",
+            "Caption": "beautiful african woman with green and yellow head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00004_.png",
+            "Image Name": "SA_Person_00004_.png",
+            "Caption": "a man in a suit sitting on the floor in front of a wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00005_.png",
+            "Image Name": "SA_Person_00005_.png",
+            "Caption": "a beautiful young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00006_.png",
+            "Image Name": "SA_Person_00006_.png",
+            "Caption": "a woman wearing a headpiece and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00007_.png",
+            "Image Name": "SA_Person_00007_.png",
+            "Caption": "beautiful african woman in traditional clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00008_.png",
+            "Image Name": "SA_Person_00008_.png",
+            "Caption": "a beautiful young woman in an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00009_.png",
+            "Image Name": "SA_Person_00009_.png",
+            "Caption": "an african woman in a colorful dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00010_.png",
+            "Image Name": "SA_Person_00010_.png",
+            "Caption": "a beautiful woman with green and yellow makeup",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00011_.png",
+            "Image Name": "SA_Person_00011_.png",
+            "Caption": "a woman in a colorful dress and head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00012_.png",
+            "Image Name": "SA_Person_00012_.png",
+            "Caption": "an animated character with glasses and a colorful head wrap",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00013_.png",
+            "Image Name": "SA_Person_00013_.png",
+            "Caption": "a beautiful young woman with a colorful hat and a colorful scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00014_.png",
+            "Image Name": "SA_Person_00014_.png",
+            "Caption": "a beautiful young woman with colorful jewelry",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00015_.png",
+            "Image Name": "SA_Person_00015_.png",
+            "Caption": "a beautiful black woman with a colorful african flag wrapped around her",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00016_.png",
+            "Image Name": "SA_Person_00016_.png",
+            "Caption": "an african woman wearing colorful jewelry and a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00017_.png",
+            "Image Name": "SA_Person_00017_.png",
+            "Caption": "a beautiful african woman wearing colorful earrings and a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00018_.png",
+            "Image Name": "SA_Person_00018_.png",
+            "Caption": "a woman with glasses and a yellow background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00019_.png",
+            "Image Name": "SA_Person_00019_.png",
+            "Caption": "a young woman wearing a colorful sweater and head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00020_.png",
+            "Image Name": "SA_Person_00020_.png",
+            "Caption": "a beautiful young woman wearing an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00021_.png",
+            "Image Name": "SA_Person_00021_.png",
+            "Caption": "beautiful african woman in traditional clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00022_.png",
+            "Image Name": "SA_Person_00022_.png",
+            "Caption": "a painting of a woman with colorful makeup",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00023_.png",
+            "Image Name": "SA_Person_00023_.png",
+            "Caption": "a beautiful woman wearing colorful clothing and a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00024_.png",
+            "Image Name": "SA_Person_00024_.png",
+            "Caption": "a beautiful woman in an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00025_.png",
+            "Image Name": "SA_Person_00025_.png",
+            "Caption": "a beautiful black woman with a black bun on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00026_.png",
+            "Image Name": "SA_Person_00026_.png",
+            "Caption": "a young woman wearing an african style headpiece",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00027_.png",
+            "Image Name": "SA_Person_00027_.png",
+            "Caption": "a young woman with a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00028_.png",
+            "Image Name": "SA_Person_00028_.png",
+            "Caption": "a beautiful young woman with colorful beads on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00029_.png",
+            "Image Name": "SA_Person_00029_.png",
+            "Caption": "african woman in traditional dress with african flag background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00030_.png",
+            "Image Name": "SA_Person_00030_.png",
+            "Caption": "a woman with a green and yellow head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00031_.png",
+            "Image Name": "SA_Person_00031_.png",
+            "Caption": "a beautiful young woman wearing a colorful head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00032_.png",
+            "Image Name": "SA_Person_00032_.png",
+            "Caption": "an african woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00033_.png",
+            "Image Name": "SA_Person_00033_.png",
+            "Caption": "a painting of a woman with an afro hair style",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00034_.png",
+            "Image Name": "SA_Person_00034_.png",
+            "Caption": "a beautiful young woman wearing glasses and a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00035_.png",
+            "Image Name": "SA_Person_00035_.png",
+            "Caption": "a woman with a colorful head wrap and painted face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00036_.png",
+            "Image Name": "SA_Person_00036_.png",
+            "Caption": "beautiful african woman wearing colorful headdress and jewelry",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00037_.png",
+            "Image Name": "SA_Person_00037_.png",
+            "Caption": "a man wearing a colorful head wrap",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00038_.png",
+            "Image Name": "SA_Person_00038_.png",
+            "Caption": "a woman wearing a colorful headpiece and necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00039_.png",
+            "Image Name": "SA_Person_00039_.png",
+            "Caption": "a woman with a zebra print dress and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00040_.png",
+            "Image Name": "SA_Person_00040_.png",
+            "Caption": "an older woman wearing a turban and smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00041_.png",
+            "Image Name": "SA_Person_00041_.png",
+            "Caption": "a beautiful young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00042_.png",
+            "Image Name": "SA_Person_00042_.png",
+            "Caption": "a beautiful african woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00043_.png",
+            "Image Name": "SA_Person_00043_.png",
+            "Caption": "a woman in a colorful dress and hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00044_.png",
+            "Image Name": "SA_Person_00044_.png",
+            "Caption": "a beautiful young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00045_.png",
+            "Image Name": "SA_Person_00045_.png",
+            "Caption": "a beautiful woman in a colorful head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00046_.png",
+            "Image Name": "SA_Person_00046_.png",
+            "Caption": "a woman wearing a colorful dress and a green head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00047_.png",
+            "Image Name": "SA_Person_00047_.png",
+            "Caption": "beautiful african woman in traditional dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00048_.png",
+            "Image Name": "SA_Person_00048_.png",
+            "Caption": "a beautiful african woman in a colorful african print dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00049_.png",
+            "Image Name": "SA_Person_00049_.png",
+            "Caption": "an african woman wearing colorful jewelry and a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00050_.png",
+            "Image Name": "SA_Person_00050_.png",
+            "Caption": "a young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00051_.png",
+            "Image Name": "SA_Person_00051_.png",
+            "Caption": "a beautiful woman in an african outfit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00052_.png",
+            "Image Name": "SA_Person_00052_.png",
+            "Caption": "a young woman wearing an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00053_.png",
+            "Image Name": "SA_Person_00053_.png",
+            "Caption": "a woman with bright blue lips and a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00054_.png",
+            "Image Name": "SA_Person_00054_.png",
+            "Caption": "a woman wearing a yellow head scarf and glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00055_.png",
+            "Image Name": "SA_Person_00055_.png",
+            "Caption": "african woman with african flag on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00056_.png",
+            "Image Name": "SA_Person_00056_.png",
+            "Caption": "beautiful african woman with african style",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00057_.png",
+            "Image Name": "SA_Person_00057_.png",
+            "Caption": "beautiful african woman with colorful scarf and head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00058_.png",
+            "Image Name": "SA_Person_00058_.png",
+            "Caption": "beautiful african woman with colorful headdress and jewelry",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00059_.png",
+            "Image Name": "SA_Person_00059_.png",
+            "Caption": "a shirtless man wearing a necklace with a black and orange bead",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00060_.png",
+            "Image Name": "SA_Person_00060_.png",
+            "Caption": "a woman wearing a headscarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00061_.png",
+            "Image Name": "SA_Person_00061_.png",
+            "Caption": "beautiful african woman wearing colorful head scarf and jewelry",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00062_.png",
+            "Image Name": "SA_Person_00062_.png",
+            "Caption": "a beautiful african woman in a green and yellow dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00063_.png",
+            "Image Name": "SA_Person_00063_.png",
+            "Caption": "a young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00064_.png",
+            "Image Name": "SA_Person_00064_.png",
+            "Caption": "beautiful african woman in traditional dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00065_.png",
+            "Image Name": "SA_Person_00065_.png",
+            "Caption": "a woman wearing sunglasses and a turban in the desert",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00066_.png",
+            "Image Name": "SA_Person_00066_.png",
+            "Caption": "a beautiful young woman wearing a colorful headpiece",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00067_.png",
+            "Image Name": "SA_Person_00067_.png",
+            "Caption": "a woman wearing a colorful headpiece and glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00068_.png",
+            "Image Name": "SA_Person_00068_.png",
+            "Caption": "a painting of a young woman with a turban",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00069_.png",
+            "Image Name": "SA_Person_00069_.png",
+            "Caption": "a woman wearing a colorful headpiece and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00070_.png",
+            "Image Name": "SA_Person_00070_.png",
+            "Caption": "beautiful african woman in traditional dress and jewelry",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00071_.png",
+            "Image Name": "SA_Person_00071_.png",
+            "Caption": "a man in a colorful african dress standing against a white wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00072_.png",
+            "Image Name": "SA_Person_00072_.png",
+            "Caption": "a woman in an african dress poses for a photo",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00073_.png",
+            "Image Name": "SA_Person_00073_.png",
+            "Caption": "a woman with a green and yellow face and gold paint",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00074_.png",
+            "Image Name": "SA_Person_00074_.png",
+            "Caption": "a beautiful black woman with green eyes and a yellow dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00075_.png",
+            "Image Name": "SA_Person_00075_.png",
+            "Caption": "a beautiful woman with an african hat on",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00076_.png",
+            "Image Name": "SA_Person_00076_.png",
+            "Caption": "a beautiful young woman in a colorful dress and head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00077_.png",
+            "Image Name": "SA_Person_00077_.png",
+            "Caption": "a beautiful young woman wearing an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00078_.png",
+            "Image Name": "SA_Person_00078_.png",
+            "Caption": "a beautiful woman with colorful jewelry and an elephant in the background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00079_.png",
+            "Image Name": "SA_Person_00079_.png",
+            "Caption": "a woman wearing a colorful headdress and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00080_.png",
+            "Image Name": "SA_Person_00080_.png",
+            "Caption": "a woman wearing a colorful head wrap and glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00081_.png",
+            "Image Name": "SA_Person_00081_.png",
+            "Caption": "an african woman wearing colorful jewelry and a head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00082_.png",
+            "Image Name": "SA_Person_00082_.png",
+            "Caption": "a beautiful african woman with painted face and bright yellow and green makeup",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00083_.png",
+            "Image Name": "SA_Person_00083_.png",
+            "Caption": "a beautiful young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00084_.png",
+            "Image Name": "SA_Person_00084_.png",
+            "Caption": "a man wearing a colorful hat and necklace",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00085_.png",
+            "Image Name": "SA_Person_00085_.png",
+            "Caption": "a woman wearing an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00086_.png",
+            "Image Name": "SA_Person_00086_.png",
+            "Caption": "beautiful african woman with green and yellow makeup",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00087_.png",
+            "Image Name": "SA_Person_00087_.png",
+            "Caption": "a beautiful young woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00088_.png",
+            "Image Name": "SA_Person_00088_.png",
+            "Caption": "a beautiful young woman with colorful earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00089_.png",
+            "Image Name": "SA_Person_00089_.png",
+            "Caption": "beautiful african woman wearing colorful jewelry",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00090_.png",
+            "Image Name": "SA_Person_00090_.png",
+            "Caption": "a woman with colorful jewelry and a green and yellow flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00091_.png",
+            "Image Name": "SA_Person_00091_.png",
+            "Caption": "a black woman with a green shirt and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00092_.png",
+            "Image Name": "SA_Person_00092_.png",
+            "Caption": "an african woman wearing a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00093_.png",
+            "Image Name": "SA_Person_00093_.png",
+            "Caption": "beautiful african woman with colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00094_.png",
+            "Image Name": "SA_Person_00094_.png",
+            "Caption": "a young woman wearing a colorful head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/sa_person/SA_Person_00095_.png",
+            "Image Name": "SA_Person_00095_.png",
+            "Caption": "a woman with braids and colorful clothes in front of a flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00096_.png",
+            "Image Name": "SA_Person_00096_.png",
+            "Caption": "an african woman in traditional clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00097_.png",
+            "Image Name": "SA_Person_00097_.png",
+            "Caption": "a woman wearing a colorful head scarf and blue jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00098_.png",
+            "Image Name": "SA_Person_00098_.png",
+            "Caption": "beautiful african woman with colorful head wrap and necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/sa_person/SA_Person_00099_.png",
+            "Image Name": "SA_Person_00099_.png",
+            "Caption": "a beautiful young woman in an african style head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 94,
+            "Images Containing Word": 94,
+            "Percentage of Images": 94.0
+        },
+        {
+            "Word": "colorful",
+            "Total Occurrences": 58,
+            "Images Containing Word": 57,
+            "Percentage of Images": 56.99999999999999
+        },
+        {
+            "Word": "beautiful",
+            "Total Occurrences": 48,
+            "Images Containing Word": 48,
+            "Percentage of Images": 48.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 48,
+            "Images Containing Word": 48,
+            "Percentage of Images": 48.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 45,
+            "Images Containing Word": 45,
+            "Percentage of Images": 45.0
+        },
+        {
+            "Word": "african",
+            "Total Occurrences": 47,
+            "Images Containing Word": 43,
+            "Percentage of Images": 43.0
+        },
+        {
+            "Word": "wrap",
+            "Total Occurrences": 30,
+            "Images Containing Word": 30,
+            "Percentage of Images": 30.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 26,
+            "Images Containing Word": 26,
+            "Percentage of Images": 26.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 17,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 16,
+            "Images Containing Word": 16,
+            "Percentage of Images": 16.0
+        },
+        {
+            "Word": "jewelry",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "green",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "style",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "traditional",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "earrings",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "headpiece",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 6,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "necklace",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "clothing",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "makeup",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "headdress",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "turban",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "painted",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "bright",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "print",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "photo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "shirtless",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "orange",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "clothes",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bead",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "braids",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "headscarf",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "elephant",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gold",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "desert",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "poses",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "lips",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "paint",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "eyes",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "outfit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wrapped",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "headband",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "floor",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "animated",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "character",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "around",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bun",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "beads",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "afro",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "zebra",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "older",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "young",
+            "Count": 26
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 94
+        },
+        {
+            "Word": "man",
+            "Count": 5
+        }
+    ]
+}

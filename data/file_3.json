@@ -1,0 +1,1276 @@
+{
+    "image_captions": [
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-31.png",
+            "Image Name": "Beauty_00031_.png",
+            "Caption": "a woman with short hair and a black jacket is standing in front of a wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-32.png",
+            "Image Name": "Beauty_00032_.png",
+            "Caption": "a woman with a flower crown in a field of yellow flowers",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-33.png",
+            "Image Name": "Beauty_00033_.png",
+            "Caption": "a young woman with braids leaning against a wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-34.png",
+            "Image Name": "Beauty_00034_.png",
+            "Caption": "a white mannequin with flowers on its head",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-35.png",
+            "Image Name": "Beauty_00035_.png",
+            "Caption": "a beautiful bride with her hair in a field",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-36.png",
+            "Image Name": "Beauty_00036_.png",
+            "Caption": "a woman with pink hair and flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-37.png",
+            "Image Name": "Beauty_00037_.png",
+            "Caption": "a woman with bright makeup and a pink shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-38.png",
+            "Image Name": "Beauty_00038_.png",
+            "Caption": "a woman smiling in front of a pink wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-39.png",
+            "Image Name": "Beauty_00039_.png",
+            "Caption": "a woman with curly hair and a hat smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-40.png",
+            "Image Name": "Beauty_00040_.png",
+            "Caption": "a woman with pink hair and a pink hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-41.png",
+            "Image Name": "Beauty_00041_.png",
+            "Caption": "a beautiful young woman with freckles and a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-42.png",
+            "Image Name": "Beauty_00042_.png",
+            "Caption": "a woman with a flower crown on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-43.png",
+            "Image Name": "Beauty_00043_.png",
+            "Caption": "a beautiful woman with a flower crown and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-44.png",
+            "Image Name": "Beauty_00044_.png",
+            "Caption": "a woman with her head up looking up",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-45.png",
+            "Image Name": "Beauty_00045_.png",
+            "Caption": "a woman with curly hair and flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-46.png",
+            "Image Name": "Beauty_00046_.png",
+            "Caption": "a woman wearing sunglasses and a white jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-47.png",
+            "Image Name": "Beauty_00047_.png",
+            "Caption": "a young woman with pink hair and flowers on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-48.png",
+            "Image Name": "Beauty_00048_.png",
+            "Caption": "a woman with dark hair and a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-49.png",
+            "Image Name": "Beauty_00049_.png",
+            "Caption": "a woman with pink flowers on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-50.png",
+            "Image Name": "Beauty_00050_.png",
+            "Caption": "a woman with purple makeup and flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-51.png",
+            "Image Name": "Beauty_00051_.png",
+            "Caption": "a woman with short blonde hair and a black suit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-52.png",
+            "Image Name": "Beauty_00052_.png",
+            "Caption": "a woman in a black dress and earrings against a green wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-53.png",
+            "Image Name": "Beauty_00053_.png",
+            "Caption": "a woman with long hair and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-54.png",
+            "Image Name": "Beauty_00054_.png",
+            "Caption": "a woman in a blue suit with her hands on her chin",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-55.png",
+            "Image Name": "Beauty_00055_.png",
+            "Caption": "a woman with pink makeup and a hat is posing for the camera",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-56.png",
+            "Image Name": "Beauty_00056_.png",
+            "Caption": "a woman wearing a hat and a dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-57.png",
+            "Image Name": "Beauty_00057_.png",
+            "Caption": "a beautiful young woman in a white dress with flowers on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-58.png",
+            "Image Name": "Beauty_00058_.png",
+            "Caption": "a woman with curly hair wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-59.png",
+            "Image Name": "Beauty_00059_.png",
+            "Caption": "a woman wearing a pink dress with flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-60.png",
+            "Image Name": "Beauty_00060_.png",
+            "Caption": "a woman with a hat on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-61.png",
+            "Image Name": "Beauty_00061_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-62.png",
+            "Image Name": "Beauty_00062_.png",
+            "Caption": "a woman with flowers in her hair and a flower crown",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-63.png",
+            "Image Name": "Beauty_00063_.png",
+            "Caption": "a woman wearing a black jacket and necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-64.png",
+            "Image Name": "Beauty_00064_.png",
+            "Caption": "a young woman with an afro hair style",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-65.png",
+            "Image Name": "Beauty_00065_.png",
+            "Caption": "a woman with dreadlocks and a white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-66.png",
+            "Image Name": "Beauty_00066_.png",
+            "Caption": "a woman with an afro wearing a white jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-67.png",
+            "Image Name": "Beauty_00067_.png",
+            "Caption": "a beautiful young woman with afro hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-68.png",
+            "Image Name": "Beauty_00068_.png",
+            "Caption": "a woman in a black suit and white shirt smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-69.png",
+            "Image Name": "Beauty_00069_.png",
+            "Caption": "a woman with a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-70.png",
+            "Image Name": "Beauty_00070_.png",
+            "Caption": "beautiful woman with long hair and makeup looking out the window",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-71.png",
+            "Image Name": "Beauty_00071_.png",
+            "Caption": "a black woman with a mohawk and a necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-72.png",
+            "Image Name": "Beauty_00072_.png",
+            "Caption": "a woman wearing sunglasses and a colorful head wrap",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-73.png",
+            "Image Name": "Beauty_00073_.png",
+            "Caption": "a woman wearing a hat with flowers on it",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-74.png",
+            "Image Name": "Beauty_00074_.png",
+            "Caption": "a woman with long hair and a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-75.png",
+            "Image Name": "Beauty_00075_.png",
+            "Caption": "a woman wearing a pink headband and black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067919/Beauty.png",
+            "Image Name": "Beauty_00001_.png",
+            "Caption": "a woman with curly hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-2.png",
+            "Image Name": "Beauty_00002_.png",
+            "Caption": "a woman with curly hair and a black jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-3.png",
+            "Image Name": "Beauty_00003_.png",
+            "Caption": "a woman smiles while surrounded by pink flowers",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-4.png",
+            "Image Name": "Beauty_00004_.png",
+            "Caption": "a beautiful woman with flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-5.png",
+            "Image Name": "Beauty_00005_.png",
+            "Caption": "a beautiful young woman with curly hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-6.png",
+            "Image Name": "Beauty_00006_.png",
+            "Caption": "a young woman with curly hair and a necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-7.png",
+            "Image Name": "Beauty_00007_.png",
+            "Caption": "a woman wearing a hat and a scarf with flowers on it",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-8.png",
+            "Image Name": "Beauty_00008_.png",
+            "Caption": "a young girl with blue paint on her face and flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-9.png",
+            "Image Name": "Beauty_00009_.png",
+            "Caption": "a beautiful woman with a flower in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-10.png",
+            "Image Name": "Beauty_00010_.png",
+            "Caption": "a woman with curly hair and earrings in front of a wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-11.png",
+            "Image Name": "Beauty_00011_.png",
+            "Caption": "a woman in an orange dress with flowers on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-12.png",
+            "Image Name": "Beauty_00012_.png",
+            "Caption": "a woman in front of a pink wall with shadows",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-13.png",
+            "Image Name": "Beauty_00013_.png",
+            "Caption": "a woman with a black turtle neck top and dark hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-14.png",
+            "Image Name": "Beauty_00014_.png",
+            "Caption": "a woman wearing a hat and a white dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-15.png",
+            "Image Name": "Beauty_00015_.png",
+            "Caption": "a woman's face is surrounded by flowers",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-16.png",
+            "Image Name": "Beauty_00016_.png",
+            "Caption": "a painting of a woman with dreadlocks and flowers",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-17.png",
+            "Image Name": "Beauty_00017_.png",
+            "Caption": "a woman with short hair and a necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-18.png",
+            "Image Name": "Beauty_00018_.png",
+            "Caption": "a beautiful woman in a red hat and white shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-19.png",
+            "Image Name": "Beauty_00019_.png",
+            "Caption": "a woman with pink flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-20.png",
+            "Image Name": "Beauty_00020_.png",
+            "Caption": "beautiful woman with flowers in the garden",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-21.png",
+            "Image Name": "Beauty_00021_.png",
+            "Caption": "a beautiful young woman with an afro hair style",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-22.png",
+            "Image Name": "Beauty_00022_.png",
+            "Caption": "a beautiful black woman with long hair and a flower crown",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-23.png",
+            "Image Name": "Beauty_00023_.png",
+            "Caption": "a woman with pink flowers in her hair and makeup",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-24.png",
+            "Image Name": "Beauty_00024_.png",
+            "Caption": "a woman with her hair blowing in the wind",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-25.png",
+            "Image Name": "Beauty_00025_.png",
+            "Caption": "a woman with flowers on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-26.png",
+            "Image Name": "Beauty_00026_.png",
+            "Caption": "a woman with curly hair standing in front of a pink background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-27.png",
+            "Image Name": "Beauty_00027_.png",
+            "Caption": "a woman with a black hat and a tattoo",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-28.png",
+            "Image Name": "Beauty_00028_.png",
+            "Caption": "a young woman with curly hair wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-29.png",
+            "Image Name": "Beauty_00029_.png",
+            "Caption": "a young woman with curly hair wearing a red hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-30.png",
+            "Image Name": "Beauty_00030_.png",
+            "Caption": "a beautiful woman with colorful jewelry and a flower crown",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-76.png",
+            "Image Name": "Beauty_00076_.png",
+            "Caption": "a woman with dreadlocks standing in a room",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-77.png",
+            "Image Name": "Beauty_00077_.png",
+            "Caption": "a woman with a black jacket and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-78.png",
+            "Image Name": "Beauty_00078_.png",
+            "Caption": "a woman in a black hat and black dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-79.png",
+            "Image Name": "Beauty_00079_.png",
+            "Caption": "a woman in a purple dress and hat looking out of a window",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-80.png",
+            "Image Name": "Beauty_00080_.png",
+            "Caption": "a young black woman with curly hair and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-81.png",
+            "Image Name": "Beauty_00081_.png",
+            "Caption": "a woman with short hair and a necklace",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-82.png",
+            "Image Name": "Beauty_00082_.png",
+            "Caption": "a beautiful woman with pink flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-83.png",
+            "Image Name": "Beauty_00083_.png",
+            "Caption": "a woman wearing sunglasses and a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-84.png",
+            "Image Name": "Beauty_00084_.png",
+            "Caption": "a 3d rendering of a woman with glitter on her face",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-85.png",
+            "Image Name": "Beauty_00085_.png",
+            "Caption": "a woman with a red headdress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-86.png",
+            "Image Name": "Beauty_00086_.png",
+            "Caption": "a woman with a hat and a smile",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-87.png",
+            "Image Name": "Beauty_00087_.png",
+            "Caption": "a man with a white body and a turtle neck",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-88.png",
+            "Image Name": "Beauty_00088_.png",
+            "Caption": "a woman with a hat and flowers in her hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-89.png",
+            "Image Name": "Beauty_00089_.png",
+            "Caption": "a woman with a black headscarf and makeup",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-90.png",
+            "Image Name": "Beauty_00090_.png",
+            "Caption": "a woman with blue skin and a blue body",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-91.png",
+            "Image Name": "Beauty_00091_.png",
+            "Caption": "a man with flowers in his hair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-92.png",
+            "Image Name": "Beauty_00092_.png",
+            "Caption": "a woman with red flowers on her head",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-93.png",
+            "Image Name": "Beauty_00093_.png",
+            "Caption": "a woman with a red umbrella and earrings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-94.png",
+            "Image Name": "Beauty_00094_.png",
+            "Caption": "a woman in a black hijab with a black background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-95.png",
+            "Image Name": "Beauty_00095_.png",
+            "Caption": "beautiful woman with flowers and butterflies",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-96.png",
+            "Image Name": "Beauty_00096_.png",
+            "Caption": "a woman with dreadlocks standing against a pink wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-97.png",
+            "Image Name": "Beauty_00097_.png",
+            "Caption": "a woman with long black hair and pearls",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-98.png",
+            "Image Name": "Beauty_00098_.png",
+            "Caption": "a woman wearing a scarf and a black coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-99.png",
+            "Image Name": "Beauty_00099_.png",
+            "Caption": "a beautiful young woman with a hat and flowers",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "https://res.cloudinary.com/dpp2rx2hd/image/upload/v1742067920/Beauty-100.png",
+            "Image Name": "Beauty_00100_.png",
+            "Caption": "beautiful african american woman with afro hair smiling with flowers on pink background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 94,
+            "Images Containing Word": 94,
+            "Percentage of Images": 94.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 45,
+            "Images Containing Word": 43,
+            "Percentage of Images": 43.0
+        },
+        {
+            "Word": "flowers",
+            "Total Occurrences": 29,
+            "Images Containing Word": 29,
+            "Percentage of Images": 28.999999999999996
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 21,
+            "Images Containing Word": 21,
+            "Percentage of Images": 21.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 22,
+            "Images Containing Word": 20,
+            "Percentage of Images": 20.0
+        },
+        {
+            "Word": "beautiful",
+            "Total Occurrences": 18,
+            "Images Containing Word": 18,
+            "Percentage of Images": 18.0
+        },
+        {
+            "Word": "pink",
+            "Total Occurrences": 18,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 16,
+            "Images Containing Word": 16,
+            "Percentage of Images": 16.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 14,
+            "Images Containing Word": 14,
+            "Percentage of Images": 14.000000000000002
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "curly",
+            "Total Occurrences": 12,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "earrings",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "flower",
+            "Total Occurrences": 7,
+            "Images Containing Word": 7,
+            "Percentage of Images": 7.000000000000001
+        },
+        {
+            "Word": "makeup",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "crown",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "long",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "afro",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "necklace",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "short",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "dreadlocks",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 4,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "sunglasses",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "looking",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "style",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "window",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "turtle",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "neck",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "surrounded",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "colorful",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "dark",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "body",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "purple",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "field",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "headdress",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "butterflies",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "blowing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "african",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wind",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pearls",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "tattoo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "jewelry",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "room",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hijab",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "smile",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "3d",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "rendering",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "umbrella",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "glitter",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "skin",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "headscarf",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "garden",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "camera",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hands",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "braids",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "leaning",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mannequin",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bride",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bright",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "freckles",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "blonde",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "green",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "chin",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "woman's",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "posing",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mohawk",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wrap",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "headband",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "smiles",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "paint",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "orange",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "shadows",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "american",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "young",
+            "Count": 14
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 94
+        },
+        {
+            "Word": "man",
+            "Count": 2
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ]
+}

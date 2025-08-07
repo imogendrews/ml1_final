@@ -1,0 +1,1276 @@
+{
+    "image_captions": [
+        {
+            "Image": "/russian_person/Russian_00002_.png",
+            "Image Name": "Russian_00002_.png",
+            "Caption": "a woman in a shawl with a city in the background",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00003_.png",
+            "Image Name": "Russian_00003_.png",
+            "Caption": "a man in armor standing in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00004_.png",
+            "Image Name": "Russian_00004_.png",
+            "Caption": "a close up of a man in a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00005_.png",
+            "Image Name": "Russian_00005_.png",
+            "Caption": "a man with a gray scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00006_.png",
+            "Image Name": "Russian_00006_.png",
+            "Caption": "a woman dressed in a blue and gold costume",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00007_.png",
+            "Image Name": "Russian_00007_.png",
+            "Caption": "a woman wearing a red scarf and a backpack",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00008_.png",
+            "Image Name": "Russian_00008_.png",
+            "Caption": "a woman in traditional russian clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00009_.png",
+            "Image Name": "Russian_00009_.png",
+            "Caption": "a man in a colorful jacket and hat stands in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00010_.png",
+            "Image Name": "Russian_00010_.png",
+            "Caption": "a woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00011_.png",
+            "Image Name": "Russian_00011_.png",
+            "Caption": "a painting of a woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00012_.png",
+            "Image Name": "Russian_00012_.png",
+            "Caption": "a woman with a backpack",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00013_.png",
+            "Image Name": "Russian_00013_.png",
+            "Caption": "a man with a scarf on his head",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00014_.png",
+            "Image Name": "Russian_00014_.png",
+            "Caption": "a man wearing a coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00015_.png",
+            "Image Name": "Russian_00015_.png",
+            "Caption": "a young woman in a white hijab smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/russian_person/Russian_00016_.png",
+            "Image Name": "Russian_00016_.png",
+            "Caption": "a woman in a traditional costume",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00017_.png",
+            "Image Name": "Russian_00017_.png",
+            "Caption": "a man in a black coat and a scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00018_.png",
+            "Image Name": "Russian_00018_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00019_.png",
+            "Image Name": "Russian_00019_.png",
+            "Caption": "a woman wearing a traditional costume in the city",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00020_.png",
+            "Image Name": "Russian_00020_.png",
+            "Caption": "man wearing a brown coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00021_.png",
+            "Image Name": "Russian_00021_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00022_.png",
+            "Image Name": "Russian_00022_.png",
+            "Caption": "a young girl with blue eyes wearing a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "/russian_person/Russian_00023_.png",
+            "Image Name": "Russian_00023_.png",
+            "Caption": "a painting of donald trump in a blue jacket",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00024_.png",
+            "Image Name": "Russian_00024_.png",
+            "Caption": "a woman wearing a crown and a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00025_.png",
+            "Image Name": "Russian_00025_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00027_.png",
+            "Image Name": "Russian_00027_.png",
+            "Caption": "a man in traditional clothing stands in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00028_.png",
+            "Image Name": "Russian_00028_.png",
+            "Caption": "a woman wearing a fur hat and white coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00029_.png",
+            "Image Name": "Russian_00029_.png",
+            "Caption": "a man with a beard sitting at a desk",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00030_.png",
+            "Image Name": "Russian_00030_.png",
+            "Caption": "a man wearing a hat and scarf in the snow",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00031_.png",
+            "Image Name": "Russian_00031_.png",
+            "Caption": "a man in a black coat and tie standing in front of a grungy wall",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00032_.png",
+            "Image Name": "Russian_00032_.png",
+            "Caption": "a woman wearing a crown and a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00033_.png",
+            "Image Name": "Russian_00033_.png",
+            "Caption": "a woman wearing a face mask in the snow",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00034_.png",
+            "Image Name": "Russian_00034_.png",
+            "Caption": "a toy figure of a woman holding a flag",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00035_.png",
+            "Image Name": "Russian_00035_.png",
+            "Caption": "a young girl in a red outfit and hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young, girl"
+        },
+        {
+            "Image": "/russian_person/Russian_00036_.png",
+            "Image Name": "Russian_00036_.png",
+            "Caption": "a close up of a man in a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00037_.png",
+            "Image Name": "Russian_00037_.png",
+            "Caption": "man wearing a brown hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00038_.png",
+            "Image Name": "Russian_00038_.png",
+            "Caption": "a woman wearing a crown and a tiara",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00039_.png",
+            "Image Name": "Russian_00039_.png",
+            "Caption": "a man wearing a crown",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00040_.png",
+            "Image Name": "Russian_00040_.png",
+            "Caption": "a man in a black coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00041_.png",
+            "Image Name": "Russian_00041_.png",
+            "Caption": "a woman wearing a traditional scarf and hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00042_.png",
+            "Image Name": "Russian_00042_.png",
+            "Caption": "a woman wearing a scarf and hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00043_.png",
+            "Image Name": "Russian_00043_.png",
+            "Caption": "a woman in a coat and hat standing in front of a arch",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00044_.png",
+            "Image Name": "Russian_00044_.png",
+            "Caption": "a woman wearing a traditional headscarf and traditional clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00045_.png",
+            "Image Name": "Russian_00045_.png",
+            "Caption": "a woman with long hair wearing a white dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00046_.png",
+            "Image Name": "Russian_00046_.png",
+            "Caption": "a young boy wearing a helmet and scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young, boy"
+        },
+        {
+            "Image": "/russian_person/Russian_00047_.png",
+            "Image Name": "Russian_00047_.png",
+            "Caption": "woman wearing a white headscarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00048_.png",
+            "Image Name": "Russian_00048_.png",
+            "Caption": "the man in white is looking at the camera",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00049_.png",
+            "Image Name": "Russian_00049_.png",
+            "Caption": "a woman in a white dress and veil",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00050_.png",
+            "Image Name": "Russian_00050_.png",
+            "Caption": "a woman with long blonde hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00051_.png",
+            "Image Name": "Russian_00051_.png",
+            "Caption": "a painting of a man in traditional clothing",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00052_.png",
+            "Image Name": "Russian_00052_.png",
+            "Caption": "a man in a white robe with a hood on",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00053_.png",
+            "Image Name": "Russian_00053_.png",
+            "Caption": "a black and white photo of the president of russia",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00054_.png",
+            "Image Name": "Russian_00054_.png",
+            "Caption": "a man wearing a hat and a tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00055_.png",
+            "Image Name": "Russian_00055_.png",
+            "Caption": "a man wearing a fur hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00056_.png",
+            "Image Name": "Russian_00056_.png",
+            "Caption": "a woman in armor is walking down the street",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00057_.png",
+            "Image Name": "Russian_00057_.png",
+            "Caption": "a woman wearing a hat and scarf in the winter",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00058_.png",
+            "Image Name": "Russian_00058_.png",
+            "Caption": "a man in a white suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00060_.png",
+            "Image Name": "Russian_00060_.png",
+            "Caption": "a woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00061_.png",
+            "Image Name": "Russian_00061_.png",
+            "Caption": "woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00062_.png",
+            "Image Name": "Russian_00062_.png",
+            "Caption": "a man in a traditional outfit with a fur hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00063_.png",
+            "Image Name": "Russian_00063_.png",
+            "Caption": "a man in a red beret",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00064_.png",
+            "Image Name": "Russian_00064_.png",
+            "Caption": "a young woman in traditional clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/russian_person/Russian_00065_.png",
+            "Image Name": "Russian_00065_.png",
+            "Caption": "a woman in a white coat and pink hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00066_.png",
+            "Image Name": "Russian_00066_.png",
+            "Caption": "a painting of a woman in traditional clothing",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00067_.png",
+            "Image Name": "Russian_00067_.png",
+            "Caption": "a woman wearing a red outfit",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00068_.png",
+            "Image Name": "Russian_00068_.png",
+            "Caption": "a woman wearing a yellow coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00069_.png",
+            "Image Name": "Russian_00069_.png",
+            "Caption": "a woman wearing a fur coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00070_.png",
+            "Image Name": "Russian_00070_.png",
+            "Caption": "a man in a red and white coat and scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00071_.png",
+            "Image Name": "Russian_00071_.png",
+            "Caption": "a woman in a blue robe and hood",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00072_.png",
+            "Image Name": "Russian_00072_.png",
+            "Caption": "a man in a white hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00074_.png",
+            "Image Name": "Russian_00074_.png",
+            "Caption": "a woman in a winter coat and scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00075_.png",
+            "Image Name": "Russian_00075_.png",
+            "Caption": "a man in a white shirt and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00076_.png",
+            "Image Name": "Russian_00076_.png",
+            "Caption": "a close up of a man wearing a red hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00077_.png",
+            "Image Name": "Russian_00077_.png",
+            "Caption": "a young woman wearing a colorful scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/russian_person/Russian_00078_.png",
+            "Image Name": "Russian_00078_.png",
+            "Caption": "a man wearing a white coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00079_.png",
+            "Image Name": "Russian_00079_.png",
+            "Caption": "a man wearing a blanket in front of the red square",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00080_.png",
+            "Image Name": "Russian_00080_.png",
+            "Caption": "a woman with glasses and a scarf covering her mouth",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00081_.png",
+            "Image Name": "Russian_00081_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00082_.png",
+            "Image Name": "Russian_00082_.png",
+            "Caption": "a woman wearing a scarf and a red headscarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00083_.png",
+            "Image Name": "Russian_00083_.png",
+            "Caption": "woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00084_.png",
+            "Image Name": "Russian_00084_.png",
+            "Caption": "a woman wearing a scarf and hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00085_.png",
+            "Image Name": "Russian_00085_.png",
+            "Caption": "a woman wearing a blue scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00086_.png",
+            "Image Name": "Russian_00086_.png",
+            "Caption": "a woman wearing a white hijab",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00087_.png",
+            "Image Name": "Russian_00087_.png",
+            "Caption": "man wearing a brown jacket",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00088_.png",
+            "Image Name": "Russian_00088_.png",
+            "Caption": "a painting of a man in a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00089_.png",
+            "Image Name": "Russian_00089_.png",
+            "Caption": "a woman wearing a red scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00090_.png",
+            "Image Name": "Russian_00090_.png",
+            "Caption": "a woman wearing a head scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00091_.png",
+            "Image Name": "Russian_00091_.png",
+            "Caption": "a woman wearing a traditional dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00092_.png",
+            "Image Name": "Russian_00092_.png",
+            "Caption": "a child wearing a hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": "child"
+        },
+        {
+            "Image": "/russian_person/Russian_00093_.png",
+            "Image Name": "Russian_00093_.png",
+            "Caption": "a woman in military gear",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00094_.png",
+            "Image Name": "Russian_00094_.png",
+            "Caption": "a man wearing a blue scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00095_.png",
+            "Image Name": "Russian_00095_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00096_.png",
+            "Image Name": "Russian_00096_.png",
+            "Caption": "a man in a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00097_.png",
+            "Image Name": "Russian_00097_.png",
+            "Caption": "a woman in a costume with a crown and a fur hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00098_.png",
+            "Image Name": "Russian_00098_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00099_.png",
+            "Image Name": "Russian_00099_.png",
+            "Caption": "a man wearing a red tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00100_.png",
+            "Image Name": "Russian_00100_.png",
+            "Caption": "man wearing a black coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00001_.png",
+            "Image Name": "Russian_00001_.png",
+            "Caption": "a woman wearing a white dress and tiara",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00026_.png",
+            "Image Name": "Russian_00026_.png",
+            "Caption": "a woman wearing a fur hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00059_.png",
+            "Image Name": "Russian_00059_.png",
+            "Caption": "a woman in a traditional russian costume",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/russian_person/Russian_00073_.png",
+            "Image Name": "Russian_00073_.png",
+            "Caption": "a doll with white hair and red coat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 57,
+            "Images Containing Word": 57,
+            "Percentage of Images": 56.99999999999999
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 54,
+            "Images Containing Word": 54,
+            "Percentage of Images": 54.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 36,
+            "Images Containing Word": 36,
+            "Percentage of Images": 36.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 33,
+            "Images Containing Word": 33,
+            "Percentage of Images": 33.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 19,
+            "Images Containing Word": 19,
+            "Percentage of Images": 19.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 18,
+            "Images Containing Word": 18,
+            "Percentage of Images": 18.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 17,
+            "Images Containing Word": 17,
+            "Percentage of Images": 17.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 15,
+            "Images Containing Word": 15,
+            "Percentage of Images": 15.0
+        },
+        {
+            "Word": "traditional",
+            "Total Occurrences": 13,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "clothing",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "fur",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "costume",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "crown",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "brown",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "outfit",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "headscarf",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "head",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "building",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "close",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "stands",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "city",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "long",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "tiara",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "armor",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "robe",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hood",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "winter",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "snow",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "colorful",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "russian",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "hijab",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "backpack",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "blanket",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "veil",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "looking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "military",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "blonde",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "covering",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gear",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "photo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mouth",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "president",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "russia",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "walking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "street",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "square",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "beret",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pink",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "child",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "camera",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "helmet",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "shawl",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "background",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gray",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dressed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gold",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "eyes",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "donald",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "trump",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "desk",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "boy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "grungy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "toy",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "figure",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "flag",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "arch",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "doll",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "young",
+            "Count": 6
+        },
+        {
+            "Word": "girl",
+            "Count": 2
+        },
+        {
+            "Word": "child",
+            "Count": 1
+        },
+        {
+            "Word": "boy",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 57
+        },
+        {
+            "Word": "man",
+            "Count": 36
+        },
+        {
+            "Word": "girl",
+            "Count": 2
+        },
+        {
+            "Word": "boy",
+            "Count": 1
+        }
+    ]
+}

@@ -1,0 +1,1228 @@
+{
+    "image_captions": [
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00001_.png",
+            "Image Name": "Luxembourgish_00001_.png",
+            "Caption": "a woman with glasses and a hat in front of buildings",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00002_.png",
+            "Image Name": "Luxembourgish_00002_.png",
+            "Caption": "a man with long hair",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00003_.png",
+            "Image Name": "Luxembourgish_00003_.png",
+            "Caption": "a man in armor standing in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00004_.png",
+            "Image Name": "Luxembourgish_00004_.png",
+            "Caption": "a man wearing glasses and a scarf is smiling",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00005_.png",
+            "Image Name": "Luxembourgish_00005_.png",
+            "Caption": "a woman smiling with her arms crossed",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00006_.png",
+            "Image Name": "Luxembourgish_00006_.png",
+            "Caption": "a man with glasses and a suit and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00007_.png",
+            "Image Name": "Luxembourgish_00007_.png",
+            "Caption": "a woman wearing a face mask",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00008_.png",
+            "Image Name": "Luxembourgish_00008_.png",
+            "Caption": "a woman with a bun in her hair is looking at a building",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00009_.png",
+            "Image Name": "Luxembourgish_00009_.png",
+            "Caption": "a man with a beard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00010_.png",
+            "Image Name": "Luxembourgish_00010_.png",
+            "Caption": "a yellow stuffed animal with a backpack",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00011_.png",
+            "Image Name": "Luxembourgish_00011_.png",
+            "Caption": "a woman wearing a pink and blue striped top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00012_.png",
+            "Image Name": "Luxembourgish_00012_.png",
+            "Caption": "a woman wearing a black coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00013_.png",
+            "Image Name": "Luxembourgish_00013_.png",
+            "Caption": "a woman wearing a black blazer",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00014_.png",
+            "Image Name": "Luxembourgish_00014_.png",
+            "Caption": "a woman in a black shirt and black blazer",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00015_.png",
+            "Image Name": "Luxembourgish_00015_.png",
+            "Caption": "a man wearing a yellow coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00016_.png",
+            "Image Name": "Luxembourgish_00016_.png",
+            "Caption": "a man with a red beard and a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00017_.png",
+            "Image Name": "Luxembourgish_00017_.png",
+            "Caption": "man wearing a blue hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00018_.png",
+            "Image Name": "Luxembourgish_00018_.png",
+            "Caption": "a man with a beard",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00019_.png",
+            "Image Name": "Luxembourgish_00019_.png",
+            "Caption": "a man in a yellow raincoat and glasses standing on a cobblestone street",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00020_.png",
+            "Image Name": "Luxembourgish_00020_.png",
+            "Caption": "a man in a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00021_.png",
+            "Image Name": "Luxembourgish_00021_.png",
+            "Caption": "woman wearing a white coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00022_.png",
+            "Image Name": "Luxembourgish_00022_.png",
+            "Caption": "a man in a suit standing in a field of flowers",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00023_.png",
+            "Image Name": "Luxembourgish_00023_.png",
+            "Caption": "a woman wearing a hat and a sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00024_.png",
+            "Image Name": "Luxembourgish_00024_.png",
+            "Caption": "a woman wearing a scarf and a red hoodie",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00025_.png",
+            "Image Name": "Luxembourgish_00025_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00026_.png",
+            "Image Name": "Luxembourgish_00026_.png",
+            "Caption": "a woman wearing a green scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00027_.png",
+            "Image Name": "Luxembourgish_00027_.png",
+            "Caption": "man wearing a gray coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00028_.png",
+            "Image Name": "Luxembourgish_00028_.png",
+            "Caption": "a woman wearing glasses and a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00029_.png",
+            "Image Name": "Luxembourgish_00029_.png",
+            "Caption": "a man wearing a black hat and a black coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00030_.png",
+            "Image Name": "Luxembourgish_00030_.png",
+            "Caption": "a woman wearing a black coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00031_.png",
+            "Image Name": "Luxembourgish_00031_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00032_.png",
+            "Image Name": "Luxembourgish_00032_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00033_.png",
+            "Image Name": "Luxembourgish_00033_.png",
+            "Caption": "a man with glasses and a blue scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00034_.png",
+            "Image Name": "Luxembourgish_00034_.png",
+            "Caption": "a woman wearing a hat and a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00035_.png",
+            "Image Name": "Luxembourgish_00035_.png",
+            "Caption": "a man wearing a hat and a purple mustache",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00036_.png",
+            "Image Name": "Luxembourgish_00036_.png",
+            "Caption": "a woman with red hair wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00037_.png",
+            "Image Name": "Luxembourgish_00037_.png",
+            "Caption": "a woman with colorful hair and a black top",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00038_.png",
+            "Image Name": "Luxembourgish_00038_.png",
+            "Caption": "a man wearing a black face mask",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00039_.png",
+            "Image Name": "Luxembourgish_00039_.png",
+            "Caption": "a man wearing a top hat and coat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00040_.png",
+            "Image Name": "Luxembourgish_00040_.png",
+            "Caption": "a man with a mustache",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00041_.png",
+            "Image Name": "Luxembourgish_00041_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00042_.png",
+            "Image Name": "Luxembourgish_00042_.png",
+            "Caption": "a woman in a blue polo shirt smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00043_.png",
+            "Image Name": "Luxembourgish_00043_.png",
+            "Caption": "a man in a black jacket sitting down",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00044_.png",
+            "Image Name": "Luxembourgish_00044_.png",
+            "Caption": "a woman wearing a brown scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00045_.png",
+            "Image Name": "Luxembourgish_00045_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00046_.png",
+            "Image Name": "Luxembourgish_00046_.png",
+            "Caption": "a person wearing a yellow hat",
+            "GenderIndicator": "Neutral",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00047_.png",
+            "Image Name": "Luxembourgish_00047_.png",
+            "Caption": "a woman wearing a hat and overalls in a city",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00048_.png",
+            "Image Name": "Luxembourgish_00048_.png",
+            "Caption": "a girl wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "girl"
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00049_.png",
+            "Image Name": "Luxembourgish_00049_.png",
+            "Caption": "a young woman with curly hair smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00050_.png",
+            "Image Name": "Luxembourgish_00050_.png",
+            "Caption": "a man wearing a hat and a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00051_.png",
+            "Image Name": "Luxembourgish_00051_.png",
+            "Caption": "a woman in a skirt and jacket standing on a stone wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00052_.png",
+            "Image Name": "Luxembourgish_00052_.png",
+            "Caption": "a woman with red hair and blue jacket standing in front of a stone wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00053_.png",
+            "Image Name": "Luxembourgish_00053_.png",
+            "Caption": "a woman sitting on a wall",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00054_.png",
+            "Image Name": "Luxembourgish_00054_.png",
+            "Caption": "man wearing a suit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00055_.png",
+            "Image Name": "Luxembourgish_00055_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00056_.png",
+            "Image Name": "Luxembourgish_00056_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00057_.png",
+            "Image Name": "Luxembourgish_00057_.png",
+            "Caption": "a woman with brown hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00058_.png",
+            "Image Name": "Luxembourgish_00058_.png",
+            "Caption": "a man dressed in a costume at an outdoor market",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00059_.png",
+            "Image Name": "Luxembourgish_00059_.png",
+            "Caption": "man with a hat on",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00060_.png",
+            "Image Name": "Luxembourgish_00060_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00061_.png",
+            "Image Name": "Luxembourgish_00061_.png",
+            "Caption": "a man with glasses and a green sweater",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00062_.png",
+            "Image Name": "Luxembourgish_00062_.png",
+            "Caption": "a woman with a black coat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00063_.png",
+            "Image Name": "Luxembourgish_00063_.png",
+            "Caption": "a woman in a black coat and brown sweater",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00064_.png",
+            "Image Name": "Luxembourgish_00064_.png",
+            "Caption": "a man wearing a hat and tie",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00065_.png",
+            "Image Name": "Luxembourgish_00065_.png",
+            "Caption": "a woman with red hair",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00066_.png",
+            "Image Name": "Luxembourgish_00066_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00067_.png",
+            "Image Name": "Luxembourgish_00067_.png",
+            "Caption": "a young man with a black suit and white shirt standing in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00068_.png",
+            "Image Name": "Luxembourgish_00068_.png",
+            "Caption": "a man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00069_.png",
+            "Image Name": "Luxembourgish_00069_.png",
+            "Caption": "a man with a beard and a hat is standing in front of a river",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00070_.png",
+            "Image Name": "Luxembourgish_00070_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00071_.png",
+            "Image Name": "Luxembourgish_00071_.png",
+            "Caption": "a woman with a backpack",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00072_.png",
+            "Image Name": "Luxembourgish_00072_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00073_.png",
+            "Image Name": "Luxembourgish_00073_.png",
+            "Caption": "a woman driving a car",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00074_.png",
+            "Image Name": "Luxembourgish_00074_.png",
+            "Caption": "a woman in a suit and tie smiling",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00075_.png",
+            "Image Name": "Luxembourgish_00075_.png",
+            "Caption": "a man with glasses and a white t - shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00076_.png",
+            "Image Name": "Luxembourgish_00076_.png",
+            "Caption": "a man with long hair and a white shirt",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00077_.png",
+            "Image Name": "Luxembourgish_00077_.png",
+            "Caption": "a woman wearing an orange hat with fruit on it",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00078_.png",
+            "Image Name": "Luxembourgish_00078_.png",
+            "Caption": "a man wearing a top hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00079_.png",
+            "Image Name": "Luxembourgish_00079_.png",
+            "Caption": "a woman with glasses",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00080_.png",
+            "Image Name": "Luxembourgish_00080_.png",
+            "Caption": "a woman standing in front of a body of water",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00081_.png",
+            "Image Name": "Luxembourgish_00081_.png",
+            "Caption": "man wearing a blue scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00082_.png",
+            "Image Name": "Luxembourgish_00082_.png",
+            "Caption": "woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00083_.png",
+            "Image Name": "Luxembourgish_00083_.png",
+            "Caption": "man wearing a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00084_.png",
+            "Image Name": "Luxembourgish_00084_.png",
+            "Caption": "a woman with long hair standing in an office",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00085_.png",
+            "Image Name": "Luxembourgish_00085_.png",
+            "Caption": "a woman in a hat and coat standing on a street",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00086_.png",
+            "Image Name": "Luxembourgish_00086_.png",
+            "Caption": "a man with a white scarf",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00087_.png",
+            "Image Name": "Luxembourgish_00087_.png",
+            "Caption": "woman wearing a black hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00088_.png",
+            "Image Name": "Luxembourgish_00088_.png",
+            "Caption": "a man wearing a hat and scarf in front of a building",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00089_.png",
+            "Image Name": "Luxembourgish_00089_.png",
+            "Caption": "a woman with a hat and a blue jacket standing in front of a crowd",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00090_.png",
+            "Image Name": "Luxembourgish_00090_.png",
+            "Caption": "a woman wearing a hat and jacket",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00091_.png",
+            "Image Name": "Luxembourgish_00091_.png",
+            "Caption": "a woman with glasses and an orange shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00092_.png",
+            "Image Name": "Luxembourgish_00092_.png",
+            "Caption": "a painting of a man with a beard and a hat",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00093_.png",
+            "Image Name": "Luxembourgish_00093_.png",
+            "Caption": "a young man in a blue shirt smiling",
+            "GenderIndicator": "Male",
+            "Age-Related Words": "young"
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00094_.png",
+            "Image Name": "Luxembourgish_00094_.png",
+            "Caption": "a woman wearing a hat",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00095_.png",
+            "Image Name": "Luxembourgish_00095_.png",
+            "Caption": "a woman sitting on a chair in a room",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00096_.png",
+            "Image Name": "Luxembourgish_00096_.png",
+            "Caption": "a woman in a blue top is holding a cake",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00097_.png",
+            "Image Name": "Luxembourgish_00097_.png",
+            "Caption": "a woman with a blue face and yellow shirt",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00098_.png",
+            "Image Name": "Luxembourgish_00098_.png",
+            "Caption": "a painting of a man in a colorful outfit",
+            "GenderIndicator": "Male",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00099_.png",
+            "Image Name": "Luxembourgish_00099_.png",
+            "Caption": "a woman wearing a scarf",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        },
+        {
+            "Image": "/luxembourgish_person/Luxembourgish_00100_.png",
+            "Image Name": "Luxembourgish_00100_.png",
+            "Caption": "woman wearing a blue dress",
+            "GenderIndicator": "Female",
+            "Age-Related Words": ""
+        }
+    ],
+    "word_frequencies": [
+        {
+            "Word": "woman",
+            "Total Occurrences": 52,
+            "Images Containing Word": 52,
+            "Percentage of Images": 52.0
+        },
+        {
+            "Word": "wearing",
+            "Total Occurrences": 50,
+            "Images Containing Word": 50,
+            "Percentage of Images": 50.0
+        },
+        {
+            "Word": "man",
+            "Total Occurrences": 45,
+            "Images Containing Word": 45,
+            "Percentage of Images": 45.0
+        },
+        {
+            "Word": "hat",
+            "Total Occurrences": 40,
+            "Images Containing Word": 40,
+            "Percentage of Images": 40.0
+        },
+        {
+            "Word": "black",
+            "Total Occurrences": 14,
+            "Images Containing Word": 12,
+            "Percentage of Images": 12.0
+        },
+        {
+            "Word": "blue",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "standing",
+            "Total Occurrences": 11,
+            "Images Containing Word": 11,
+            "Percentage of Images": 11.0
+        },
+        {
+            "Word": "coat",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "hair",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "glasses",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "scarf",
+            "Total Occurrences": 10,
+            "Images Containing Word": 10,
+            "Percentage of Images": 10.0
+        },
+        {
+            "Word": "shirt",
+            "Total Occurrences": 9,
+            "Images Containing Word": 9,
+            "Percentage of Images": 9.0
+        },
+        {
+            "Word": "front",
+            "Total Occurrences": 8,
+            "Images Containing Word": 8,
+            "Percentage of Images": 8.0
+        },
+        {
+            "Word": "suit",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "white",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "smiling",
+            "Total Occurrences": 6,
+            "Images Containing Word": 6,
+            "Percentage of Images": 6.0
+        },
+        {
+            "Word": "yellow",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "beard",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "top",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "red",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "jacket",
+            "Total Occurrences": 5,
+            "Images Containing Word": 5,
+            "Percentage of Images": 5.0
+        },
+        {
+            "Word": "building",
+            "Total Occurrences": 4,
+            "Images Containing Word": 4,
+            "Percentage of Images": 4.0
+        },
+        {
+            "Word": "sweater",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "wall",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "face",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "long",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "sitting",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "young",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "brown",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "tie",
+            "Total Occurrences": 3,
+            "Images Containing Word": 3,
+            "Percentage of Images": 3.0
+        },
+        {
+            "Word": "mustache",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "colorful",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "green",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "street",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "orange",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "stone",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "painting",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "backpack",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "mask",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "blazer",
+            "Total Occurrences": 2,
+            "Images Containing Word": 2,
+            "Percentage of Images": 2.0
+        },
+        {
+            "Word": "market",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "outfit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cake",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dressed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "costume",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "outdoor",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "holding",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "room",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "fruit",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "chair",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "river",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "driving",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "crowd",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "car",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "office",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "-",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "water",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "skirt",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "body",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "flowers",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "curly",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "striped",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "buildings",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "armor",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "arms",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "crossed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "bun",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "looking",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "stuffed",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "animal",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "pink",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "raincoat",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "girl",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "cobblestone",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "field",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "hoodie",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "gray",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "purple",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "polo",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "person",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "overalls",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "city",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        },
+        {
+            "Word": "dress",
+            "Total Occurrences": 1,
+            "Images Containing Word": 1,
+            "Percentage of Images": 1.0
+        }
+    ],
+    "age_related_words": [
+        {
+            "Word": "young",
+            "Count": 3
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ],
+    "gender_related_words": [
+        {
+            "Word": "woman",
+            "Count": 52
+        },
+        {
+            "Word": "man",
+            "Count": 45
+        },
+        {
+            "Word": "girl",
+            "Count": 1
+        }
+    ]
+}
